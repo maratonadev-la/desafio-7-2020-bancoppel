@@ -1,0 +1,1001 @@
+ID,Genero,Años,Estado_civil,Trabajo,Sector,Telefono,Anos_usando_internet_banking,Anos_usando_banca_movil,Banca_movil_userfriendly,Frecuencia_internet_banking_mes,Frecuencia_banca_movil_mes,Frecuencia_pagamentos_tarjeta_mes,Frecuencia_tarjeta_virtual_mes,Frecuencia_saldo_cuenta_mes
+42,F,45.0,Casado,Ingenieria en computacion,Institucion publica,Iphone ,10.0,3.0,Si,31.0,7.0,0.0,0.0,31.0
+112,F,30.0,Soltero,Ingenieria en computacion,Institucion publica,Nokia,10.0,3.0,Si,0.0,7.0,1.0,0.0,0.0
+212,M,45.0,Casado,Desempleados,Sector privado,Iphone 6,10.0,6.0,Si,1.0,1.0,15.0,0.0,4.0
+156,F,30.0,Casado,Ingenieria en computacion,Sector privado,General Mobile,10.0,6.0,No,,50.0,15.0,0.0,0.0
+228,F,24.0,Casado,Servidor publico,Sector privado,Smartphone,5.0,6.0,Si,4.0,7.0,0.0,0.0,15.0
+155,M,35.0,,Cajero,Sector privado,Samsung,5.0,4.0,No,7.0,0.0,1.0,0.0,0.0
+52,M,24.0,Casado,Enfermera,Institucion publica,Samsung 7+ Edge,5.0,3.0,Si,31.0,4.0,1.0,0.0,0.0
+123,M,30.0,Casado,Profesor,Sector privado,HTC M8,5.0,0.0,Si,0.0,0.0,0.0,15.0,1.0
+185,F,50.0,Casado,Ingeniero,Institucion publica,,5.0,3.0,No,0.0,0.0,0.0,1.0,30.0
+249,M,35.0,Casado,,Institucion publica,Iphone,10.0,3.0,Si,31.0,1.0,0.0,0.0,0.0
+7,F,30.0,Soltero,Ingeniero,Institucion publica,Asus ZenFone,15.0,3.0,Si,50.0,31.0,1.0,0.0,0.0
+50,M,30.0,Casado,Servidor publico,,Asus,5.0,6.0,No,31.0,7.0,0.0,0.0,0.0
+241,M,45.0,Casado,Profesor,Institucion publica,SONY,5.0,3.0,No,7.0,4.0,0.0,0.0,31.0
+82,F,30.0,Casado,AlumNo,,Iphone 6,10.0,0.0,Si,31.0,,0.0,0.0,35.0
+218,M,30.0,Casado,Desempleados,Institucion publica,,5.0,0.0,Si,50.0,4.0,0.0,0.0,31.0
+240,M,40.0,Soltero,Ingeniero,Sector privado,Smartphone,5.0,7.0,No,0.0,31.0,1.0,0.0,31.0
+68,M,45.0,Soltero,Profesor,Institucion publica,SONY XPER?A 75,10.0,0.0,Si,0.0,1.0,0.0,0.0,4.0
+36,M,40.0,Soltero,Trabajador,Sector privado,Samsung 7+ Edge,5.0,3.0,Si,7.0,1.0,1.0,0.0,15.0
+214,F,50.0,Soltero,Servidor publico,Sector privado,Sony,5.0,3.0,Si,50.0,1.0,1.0,0.0,31.0
+124,F,35.0,Casado,,Institucion publica,Iphone ,5.0,0.0,Si,1.0,50.0,15.0,0.0,15.0
+207,M,35.0,Soltero,Profesor,Sector privado,LG G3,10.0,3.0,Si,31.0,0.0,0.0,0.0,15.0
+231,F,40.0,Casado,Desempleados,Sector privado,Samsung,10.0,6.0,Si,1.0,4.0,1.0,15.0,0.0
+175,M,30.0,Soltero,Profesor,Institucion publica,Samsung,5.0,3.0,No,30.0,7.0,1.0,0.0,31.0
+129,M,35.0,Soltero,Director,Sector privado,Iphone 5S,10.0,,Si,1.0,50.0,0.0,0.0,31.0
+245,F,35.0,Casado,Ingeniero,Sector privado,Asus,10.0,4.0,No,1.0,4.0,0.0,0.0,30.0
+93,M,30.0,Soltero,Ingenieria en computacion,Sector privado,Samsung,5.0,0.0,Si,7.0,4.0,1.0,0.0,0.0
+5,M,30.0,Soltero,Ingeniero electrico,Institucion publica,Samsung,15.0,7.0,No,31.0,7.0,1.0,0.0,0.0
+149,M,30.0,Casado,,Sector privado,0,10.0,7.0,Si,7.0,7.0,1.0,0.0,31.0
+189,M,30.0,Soltero,Ingenieria en computacion,Institucion publica,ASUS,10.0,3.0,Si,0.0,0.0,31.0,0.0,35.0
+113,M,40.0,Soltero,Ingenieria en computacion,Institucion publica,Iphone ,5.0,6.0,Si,0.0,7.0,1.0,0.0,
+125,F,24.0,Casado,Ingeniero biomedico,Institucion publica,LG,5.0,4.0,No,31.0,0.0,0.0,0.0,15.0
+67,F,35.0,Casado,Ingeniero biomedico,Institucion publica,Iphone 5,5.0,7.0,Si,0.0,50.0,1.0,0.0,4.0
+86,M,40.0,Soltero,Ingeniero de informacion,Desempleados,,0.0,6.0,Si,1.0,7.0,31.0,0.0,0.0
+179,F,30.0,Casado,Medico,Sector privado,General mobile,5.0,7.0,Si,31.0,0.0,0.0,0.0,1.0
+121,M,35.0,Soltero,Profesor,Sector privado,Iphone 6,5.0,3.0,No,1.0,0.0,0.0,0.0,31.0
+161,M,24.0,Soltero,,Sector privado,Iphone ,5.0,0.0,Si,30.0,31.0,1.0,15.0,7.0
+146,F,40.0,Soltero,Profesor,Sector privado,Iphone 5S,10.0,3.0,Si,50.0,7.0,0.0,0.0,35.0
+82,F,24.0,Soltero,Analista de informacion,Desempleados,Samsung,0.0,6.0,Si,1.0,31.0,15.0,0.0,0.0
+99,M,30.0,Casado,,Institucion publica,Smartphone,0.0,3.0,Si,7.0,7.0,31.0,31.0,15.0
+84,M,24.0,Soltero,Enfermera,Sector privado,Asus ZenFone Selfie,5.0,7.0,No,,7.0,1.0,0.0,
+40,F,35.0,Soltero,Profesor,Institucion publica,,10.0,,Si,31.0,31.0,0.0,31.0,1.0
+36,M,50.0,Soltero,,Desempleados,Samsung Note 5,10.0,3.0,No,0.0,7.0,31.0,1.0,4.0
+142,F,24.0,Casado,Enfermera,Sector privado,Iphone 6,0.0,,Si,1.0,50.0,1.0,,31.0
+215,F,30.0,Casado,Ingeniero de informacion,Sector privado,Iphone 6S,5.0,7.0,Si,31.0,31.0,0.0,0.0,31.0
+26,F,50.0,Soltero,Profesor,Institucion publica,Samsung,5.0,3.0,No,31.0,0.0,1.0,1.0,30.0
+138,M,30.0,Casado,Ingenieria en computacion,Institucion publica,Smartphone,5.0,6.0,Si,4.0,50.0,31.0,0.0,0.0
+8,M,30.0,Casado,Ingeniero de software,Sector privado,Iphone  5S,5.0,7.0,Si,31.0,1.0,1.0,0.0,30.0
+120,M,40.0,Casado,Analista de informacion,Sector privado,Samsung,5.0,3.0,Si,50.0,31.0,1.0,1.0,0.0
+61,M,45.0,Soltero,ArtesaNo,Sector privado,Samsung S7+,5.0,3.0,Si,1.0,1.0,31.0,0.0,1.0
+24,M,45.0,Casado,Ingenieria en computacion,Desempleados,Iphone 4S,10.0,7.0,Si,31.0,31.0,0.0,0.0,0.0
+111,M,35.0,Casado,Ingenieria en computacion,Desempleados,Samsung S7+,5.0,3.0,No,1.0,1.0,0.0,1.0,0.0
+119,M,40.0,Soltero,adquisitivo,Sector privado,,5.0,3.0,Si,4.0,0.0,31.0,0.0,31.0
+30,F,35.0,Casado,Servidor publico,Institucion publica,Iphone ,,3.0,Si,0.0,30.0,0.0,0.0,7.0
+241,F,30.0,Casado,Servidor publico,Sector privado,Iphone ,5.0,6.0,Si,7.0,4.0,0.0,15.0,0.0
+154,M,30.0,Soltero,AlumNo,Institucion publica,Samsung S3,5.0,0.0,No,0.0,1.0,0.0,0.0,15.0
+144,M,24.0,Casado,Servidor publico,Sector privado,Iphone 7S,5.0,6.0,No,31.0,0.0,1.0,0.0,0.0
+59,M,30.0,Soltero,Desempleados,Sector privado,Iphone ,10.0,0.0,No,30.0,31.0,15.0,1.0,31.0
+73,,35.0,Soltero,Quimico,Selfemployed ,Samsung Note 3,10.0,3.0,Si,0.0,31.0,1.0,0.0,0.0
+29,M,30.0,Casado,Cajero,Selfemployed ,Iphone 5,0.0,4.0,Si,31.0,7.0,1.0,0.0,7.0
+224,M,35.0,Casado,AlumNo,Sector privado,LG G2,5.0,3.0,Si,50.0,30.0,1.0,0.0,31.0
+40,M,24.0,Soltero,,Selfemployed ,,5.0,3.0,Si,4.0,31.0,0.0,,30.0
+109,F,24.0,Soltero,Ingenieria en computacion,Institucion publica,Samsung j,10.0,7.0,Si,,31.0,1.0,0.0,0.0
+29,M,50.0,Casado,Ingenieria en computacion,Desempleados,Samsung,0.0,3.0,Si,50.0,7.0,0.0,0.0,4.0
+11,F,35.0,Soltero,Ingeniero de software,Desempleados,Iphone 5S,5.0,3.0,Si,31.0,31.0,1.0,15.0,15.0
+133,F,30.0,Soltero,Ingenieria en computacion,Institucion publica,Iphone 6+,5.0,4.0,Si,31.0,1.0,0.0,15.0,
+5,F,30.0,Soltero,,Sector privado,Sony,0.0,3.0,Si,0.0,0.0,30.0,0.0,7.0
+35,M,24.0,Casado,Ingeniero de software,Desempleados,LG,10.0,4.0,Si,50.0,31.0,0.0,15.0,15.0
+84,M,30.0,Soltero,,Institucion publica,Samsung s3,5.0,3.0,Si,,1.0,0.0,0.0,15.0
+118,M,35.0,Casado,Desempleados,Sector privado,Iphone ,5.0,6.0,Si,31.0,31.0,1.0,0.0,15.0
+22,,30.0,Soltero,Ingenieria en computacion,Institucion publica,Samsung S7,10.0,0.0,No,,4.0,1.0,15.0,15.0
+31,M,24.0,Casado,Profesor,Selfemployed ,,15.0,6.0,No,1.0,50.0,31.0,0.0,7.0
+92,0,30.0,Casado,Servidor publico,Institucion publica,Sony,5.0,3.0,Si,0.0,0.0,1.0,0.0,0.0
+183,F,35.0,Casado,Retirado,Institucion publica,Genaral Mobile,15.0,0.0,Si,1.0,1.0,31.0,0.0,1.0
+222,M,45.0,Soltero,Servidor publico,Sector privado,Iphone 5S,5.0,7.0,Si,31.0,50.0,4.0,0.0,15.0
+231,M,24.0,Casado,Minero,Desempleados,Samsung S7+,10.0,4.0,No,50.0,7.0,0.0,0.0,0.0
+210,F,40.0,Soltero,,Institucion publica,,15.0,3.0,No,0.0,50.0,1.0,0.0,1.0
+158,F,40.0,Soltero,,Institucion publica,Samsung,5.0,0.0,Si,50.0,7.0,15.0,0.0,4.0
+162,F,45.0,Casado,Profesor,Institucion publica,HTC,5.0,3.0,Si,0.0,1.0,15.0,0.0,31.0
+142,M,45.0,Casado,,Sector privado,,10.0,6.0,Si,1.0,30.0,1.0,1.0,31.0
+68,F,45.0,Soltero,Ingeniero biomedico,Institucion publica,SAMSUNG S6,10.0,6.0,Si,31.0,0.0,0.0,15.0,0.0
+73,F,30.0,Casado,Ingeniero de informacion,Sector privado,Samsung,10.0,3.0,No,31.0,0.0,0.0,0.0,0.0
+60,M,35.0,Casado,,Sector privado,Android,5.0,6.0,No,,50.0,31.0,0.0,31.0
+160,M,30.0,Soltero,Desempleados,Desempleados,HTC M8,10.0,0.0,No,30.0,4.0,15.0,15.0,7.0
+13,F,40.0,Casado,Psicologo,Desempleados,Samsung S7+,5.0,3.0,Si,30.0,1.0,1.0,0.0,31.0
+95,F,35.0,Soltero,Servidor publico,Desempleados,Iphone ,10.0,,Si,1.0,0.0,1.0,0.0,1.0
+36,M,40.0,Soltero,Ingeniero de informacion,Desempleados,LeNovo K5 Vibe,5.0,3.0,No,31.0,7.0,1.0,15.0,
+13,M,30.0,Soltero,Desempleados,Desempleados,Samsung,5.0,,Si,31.0,30.0,1.0,0.0,1.0
+105,,35.0,Casado,Desempleados,Institucion publica,Samsung,0.0,3.0,No,31.0,7.0,15.0,,0.0
+249,M,30.0,Casado,Profesor,Institucion publica,Iphone 6,10.0,7.0,Si,0.0,,1.0,0.0,7.0
+208,F,35.0,Soltero,Servidor publico,Institucion publica,Iphone,0.0,3.0,Si,0.0,4.0,15.0,15.0,0.0
+53,M,24.0,Casado,Profesor,Sector privado,Iphone ,5.0,3.0,Si,31.0,7.0,15.0,1.0,0.0
+217,M,30.0,Soltero,Ingeniero,Sector privado,Genaral Mobile,0.0,3.0,No,7.0,31.0,1.0,0.0,0.0
+1,F,30.0,Soltero,Servidor publico,Sector privado,Iphone,5.0,7.0,Si,1.0,1.0,1.0,0.0,15.0
+37,M,50.0,Soltero,,Sector privado,,5.0,3.0,Si,4.0,4.0,1.0,4.0,0.0
+161,0,30.0,Casado,Ingeniero,Sector privado,Iphone,5.0,3.0,No,7.0,0.0,15.0,0.0,15.0
+193,M,24.0,Soltero,Desempleados,Sector privado,Reeder,0.0,4.0,Si,30.0,30.0,31.0,0.0,0.0
+61,F,40.0,Soltero,Servidor publico,Institucion publica,,5.0,3.0,No,,7.0,0.0,0.0,0.0
+210,F,35.0,Casado,Profesor,Institucion publica,Iphone ,0.0,6.0,Si,50.0,,4.0,15.0,7.0
+20,M,35.0,Casado,Profesor,Institucion publica,Iphone ,5.0,3.0,Si,,0.0,15.0,0.0,0.0
+242,,50.0,Casado,Ingeniero,Sector privado,Iphone  5S,5.0,3.0,No,0.0,7.0,15.0,1.0,0.0
+121,M,45.0,Casado,Ingeniero biomedico,Institucion publica,,5.0,0.0,Si,0.0,4.0,1.0,0.0,0.0
+80,F,30.0,Soltero,Servidor publico,Desempleados,Iphone,5.0,3.0,Si,1.0,7.0,1.0,4.0,30.0
+12,F,24.0,Soltero,Servidor publico,Institucion publica,Samsung Note 2,10.0,3.0,Si,,1.0,31.0,0.0,15.0
+52,F,35.0,Soltero,Servidor publico,Sector privado,Iphone 6,5.0,6.0,Si,7.0,31.0,1.0,0.0,31.0
+21,F,24.0,Casado,,Institucion publica,Samsung J5,5.0,3.0,No,0.0,30.0,1.0,15.0,7.0
+146,M,35.0,Casado,entrenador,Desempleados,Samsung,5.0,6.0,No,31.0,7.0,0.0,0.0,0.0
+235,M,24.0,Soltero,AlumNo,Sector privado,Samsung,0.0,3.0,Si,4.0,50.0,1.0,0.0,0.0
+82,F,35.0,Casado,Enfermera,Institucion publica,Iphone  5S,,5.0,Si,50.0,4.0,15.0,0.0,0.0
+199,M,50.0,Soltero,Servidor publico,Sector privado,HTC ,,3.0,Si,31.0,7.0,1.0,0.0,7.0
+179,F,40.0,Casado,Ingenieria en computacion,Institucion publica,LG,5.0,3.0,Si,1.0,7.0,1.0,0.0,30.0
+65,M,50.0,Casado,Analista de informacion,Sector privado,Samsung,10.0,3.0,Si,0.0,30.0,0.0,0.0,31.0
+160,M,30.0,Soltero,Quimico,Sector privado,Iphone,0.0,3.0,No,31.0,7.0,1.0,0.0,0.0
+80,M,30.0,Casado,Profesor,Sector privado,HTC M8,10.0,7.0,No,0.0,31.0,1.0,0.0,1.0
+179,F,40.0,Casado,Profesor,Sector privado,,0.0,3.0,No,1.0,0.0,0.0,0.0,4.0
+148,F,30.0,Casado,,Desempleados,SAMSUNG A5,5.0,3.0,No,50.0,7.0,1.0,1.0,1.0
+230,F,40.0,Soltero,Ingenieria en computacion,Institucion publica,Samsung J5,5.0,3.0,Si,,1.0,1.0,0.0,7.0
+17,F,,Casado,Desempleados,Desempleados,Iphone,5.0,7.0,No,31.0,50.0,15.0,0.0,4.0
+78,M,30.0,Soltero,Ingeniero,Institucion publica,Samsung,15.0,7.0,No,0.0,0.0,1.0,0.0,15.0
+140,M,30.0,Casado,Ingeniero de software,Sector privado,Samsung Note 2,5.0,3.0,Si,50.0,1.0,15.0,0.0,31.0
+231,M,35.0,Casado,Ingeniero,Sector privado,Samsung,0.0,3.0,No,50.0,0.0,0.0,0.0,0.0
+90,F,35.0,Casado,Servidor publico,Sector privado,Samsung,5.0,,No,,50.0,1.0,0.0,15.0
+80,M,24.0,Casado,Servidor publico,Sector privado,Iphone ,5.0,0.0,Si,0.0,4.0,31.0,0.0,0.0
+142,M,35.0,Casado,Ingenieria en computacion,Desempleados,Sony,5.0,3.0,Si,30.0,0.0,31.0,0.0,7.0
+135,M,30.0,Soltero,Desempleados,Institucion publica,Iphone 6,5.0,4.0,Si,0.0,31.0,31.0,15.0,0.0
+30,M,35.0,Soltero,Servidor publico,Sector privado,Samsung A5,10.0,4.0,No,31.0,30.0,1.0,0.0,7.0
+16,M,30.0,Soltero,Profesor,Institucion publica,Iphone 5,5.0,6.0,Si,1.0,7.0,1.0,0.0,
+232,F,24.0,Soltero,,Sector privado,LG G3,0.0,4.0,Si,30.0,4.0,1.0,0.0,0.0
+73,F,30.0,Casado,Desempleados,Institucion publica,Sony,10.0,0.0,Si,1.0,31.0,31.0,0.0,0.0
+220,M,30.0,Soltero,Profesor,Institucion publica,Iphone 6+,10.0,6.0,Si,7.0,31.0,1.0,15.0,7.0
+148,M,45.0,Soltero,Profesor,Sector privado,Iphone  5S,10.0,3.0,Si,30.0,31.0,1.0,15.0,0.0
+202,M,50.0,Casado,Servidor publico,Institucion publica,Samsung,10.0,3.0,Si,0.0,1.0,1.0,0.0,7.0
+157,F,40.0,Soltero,Profesor,Sector privado,Nokia,5.0,3.0,Si,7.0,50.0,1.0,0.0,30.0
+44,F,45.0,Soltero,Ingeniero de software,Institucion publica,Samsung S7+,5.0,6.0,Si,0.0,31.0,1.0,7.0,0.0
+242,M,50.0,Casado,Ingeniero,Institucion publica,,5.0,7.0,Si,7.0,50.0,0.0,0.0,0.0
+74,M,24.0,Casado,Profesor,Institucion publica,Samsung,0.0,3.0,Si,,4.0,0.0,0.0,0.0
+136,F,30.0,Casado,Profesor,Sector privado,Samsung  A6,5.0,0.0,Si,7.0,31.0,0.0,0.0,0.0
+151,F,40.0,Soltero,Ingenieria en computacion,Institucion publica,General Mobile,5.0,4.0,No,1.0,1.0,1.0,0.0,30.0
+156,F,45.0,Casado,Ingenieria en computacion,Sector privado,Iphone,5.0,,Si,0.0,31.0,1.0,0.0,31.0
+230,M,30.0,Soltero,Ingeniero de informacion,Sector privado,ASUS,5.0,4.0,Si,30.0,0.0,1.0,15.0,0.0
+182,F,30.0,Soltero,Servidor publico,Sector privado,Iphone,5.0,3.0,Si,1.0,30.0,15.0,,31.0
+92,F,24.0,Soltero,Ingeniero,Sector privado,SONY Z2,5.0,6.0,Si,31.0,7.0,0.0,0.0,35.0
+62,F,50.0,Soltero,Desempleados,Desempleados,Nokia,10.0,3.0,Si,7.0,4.0,0.0,0.0,4.0
+169,M,30.0,Soltero,Profesor,Desempleados,LG,5.0,3.0,Si,7.0,31.0,1.0,1.0,31.0
+129,M,24.0,Soltero,Profesor,Institucion publica,,5.0,6.0,No,7.0,7.0,1.0,0.0,7.0
+206,F,35.0,Soltero,Profesor,Sector privado,Samsung  A6,10.0,0.0,No,,0.0,0.0,0.0,1.0
+228,F,50.0,Casado,Ingeniero de informacion,Institucion publica,Samsung,10.0,3.0,Si,,7.0,31.0,31.0,0.0
+115,M,35.0,Casado,ArtesaNo,Desempleados,Iphone 6,5.0,,Si,0.0,50.0,0.0,0.0,15.0
+110,F,30.0,Soltero,Ingeniero,Institucion publica,Samsung Note 4,10.0,0.0,Si,7.0,7.0,31.0,31.0,35.0
+134,F,30.0,Casado,AlumNo,Institucion publica,Samsung Note 3,5.0,3.0,No,50.0,0.0,31.0,0.0,4.0
+158,F,,Soltero,Profesor,Sector privado,LeNovo K5 Vibe,5.0,4.0,Si,30.0,1.0,0.0,1.0,4.0
+40,M,40.0,Soltero,Profesor,Sector privado,Iphone ,10.0,3.0,Si,0.0,4.0,1.0,0.0,31.0
+29,F,30.0,Soltero,Ingeniero de informacion,Sector privado,SONY XPER?A 75,0.0,0.0,Si,7.0,4.0,15.0,,15.0
+54,M,40.0,Casado,,Institucion publica,ASUS,10.0,6.0,Si,31.0,0.0,1.0,15.0,15.0
+51,F,24.0,Soltero,adquisitivo,Sector privado,Samsung S6,5.0,4.0,Si,31.0,7.0,1.0,15.0,35.0
+237,,30.0,Casado,Ingeniero,Institucion publica,Samsung,5.0,3.0,Si,7.0,31.0,1.0,0.0,0.0
+54,,50.0,Soltero,Ingenieria en computacion,Institucion publica,Iphone ,5.0,6.0,Si,0.0,4.0,0.0,0.0,0.0
+94,M,35.0,Soltero,Ingeniero de informacion,Sector privado,Iphone,0.0,3.0,No,7.0,31.0,1.0,0.0,30.0
+151,M,,Soltero,Servidor publico,Institucion publica,Samsung S6 EDGE,5.0,3.0,No,31.0,50.0,15.0,15.0,
+152,F,35.0,Casado,Desempleados,Sector privado,Iphone ,5.0,3.0,No,7.0,30.0,1.0,0.0,7.0
+60,F,40.0,Casado,Cajero,Desempleados,Samsung  A6,0.0,7.0,Si,31.0,0.0,0.0,0.0,4.0
+166,M,30.0,Casado,,Institucion publica,Samsung,10.0,3.0,Si,,30.0,1.0,0.0,1.0
+44,F,30.0,Soltero,Ingeniero,Desempleados,Samsung,10.0,6.0,Si,0.0,4.0,15.0,0.0,4.0
+210,F,30.0,Soltero,Trabajador,Sector privado,HTC M8,5.0,0.0,Si,30.0,0.0,0.0,0.0,7.0
+119,F,30.0,Casado,Desempleados,Sector privado,Iphone 5S,5.0,4.0,Si,7.0,30.0,0.0,0.0,7.0
+160,M,35.0,Soltero,Desempleados,Sector privado,Samsung S7+,0.0,6.0,Si,0.0,1.0,1.0,0.0,31.0
+113,F,30.0,Soltero,Ingeniero de informacion,Sector privado,Samsung j,10.0,3.0,Si,0.0,31.0,1.0,1.0,4.0
+90,M,30.0,,Ingeniero,Sector privado,LG,5.0,7.0,Si,31.0,7.0,1.0,1.0,1.0
+70,M,40.0,Casado,Ingeniero,Desempleados,Samsung,5.0,3.0,No,1.0,7.0,1.0,0.0,0.0
+128,M,30.0,Soltero,Desempleados,Institucion publica,Iphone  5S,10.0,3.0,No,0.0,7.0,15.0,0.0,30.0
+189,M,30.0,Soltero,Gerente,Institucion publica,Casper,5.0,3.0,Si,1.0,0.0,1.0,15.0,0.0
+131,,30.0,,Servidor publico,Institucion publica,Iphone,10.0,6.0,No,7.0,7.0,1.0,0.0,7.0
+108,F,30.0,Casado,,,Samsung,0.0,3.0,No,30.0,31.0,1.0,0.0,0.0
+117,M,50.0,Soltero,Ingeniero,Institucion publica,Sony,5.0,7.0,Si,,0.0,0.0,0.0,7.0
+102,F,30.0,Soltero,Ingeniero,Desempleados,Samsung Note 3,10.0,4.0,No,1.0,7.0,0.0,0.0,1.0
+131,M,50.0,Casado,Servidor publico,Institucion publica,ASUS,5.0,3.0,No,1.0,30.0,1.0,,7.0
+134,F,24.0,Soltero,Servidor publico,Institucion publica,Iphone ,0.0,3.0,No,31.0,1.0,,0.0,1.0
+236,F,30.0,Soltero,Contador,Sector privado,Iphone ,5.0,3.0,No,31.0,7.0,0.0,1.0,31.0
+165,M,30.0,Soltero,Servidor publico,Sector privado,Samsung Note 2,5.0,3.0,Si,30.0,50.0,1.0,15.0,15.0
+123,M,24.0,Soltero,Desempleados,Institucion publica,Iphone,5.0,3.0,Si,,4.0,15.0,1.0,7.0
+49,F,30.0,Soltero,,Sector privado,Samsung,5.0,3.0,Si,7.0,0.0,1.0,0.0,0.0
+192,F,30.0,Soltero,Servidor publico,Institucion publica,Iphone 5S,5.0,0.0,Si,50.0,7.0,1.0,0.0,
+180,M,35.0,Soltero,Ingeniero,Institucion publica,Iphone 5S,5.0,0.0,No,50.0,7.0,0.0,0.0,1.0
+112,F,45.0,Soltero,,Sector privado,Samsung,5.0,4.0,Si,7.0,31.0,1.0,0.0,1.0
+156,M,50.0,Soltero,Desempleados,Institucion publica,Genaral Mobile,5.0,3.0,Si,31.0,,31.0,0.0,7.0
+22,M,30.0,Casado,Desempleados,Institucion publica,LG G2,0.0,4.0,No,0.0,31.0,0.0,15.0,0.0
+24,M,30.0,Soltero,Profesor,Institucion publica,Samsung,5.0,3.0,No,1.0,50.0,15.0,0.0,31.0
+181,M,40.0,Casado,,Sector privado,LG,10.0,3.0,No,7.0,50.0,1.0,0.0,0.0
+137,M,50.0,Casado,Ingenieria en computacion,Sector privado,Samsung,5.0,4.0,Si,1.0,7.0,1.0,15.0,0.0
+45,M,45.0,Soltero,AlumNo,Sector privado,Galaxy S4,5.0,3.0,Si,0.0,4.0,0.0,0.0,0.0
+168,M,50.0,Soltero,Ingeniero,Sector privado,0,,4.0,Si,31.0,0.0,1.0,0.0,1.0
+142,M,35.0,Soltero,,Sector privado,Samsung Note 4,10.0,6.0,Si,7.0,4.0,0.0,15.0,15.0
+203,F,40.0,Soltero,ArtesaNo,Desempleados,,5.0,3.0,No,30.0,31.0,0.0,0.0,0.0
+15,F,30.0,Casado,Servidor publico,Sector privado,,5.0,3.0,No,0.0,31.0,1.0,0.0,0.0
+65,F,35.0,Casado,Ingeniero de software,Sector privado,Iphone ,5.0,0.0,Si,31.0,1.0,31.0,0.0,30.0
+73,M,35.0,Soltero,Ingeniero de informacion,Sector privado,SAMSUNG S6,,3.0,Si,4.0,0.0,0.0,0.0,35.0
+183,F,24.0,Soltero,Profesor,Institucion publica,Samsung 7+ Edge,5.0,3.0,Si,1.0,7.0,30.0,0.0,31.0
+18,M,50.0,Casado,Ingeniero,Institucion publica,Sony,5.0,3.0,Si,50.0,7.0,1.0,0.0,15.0
+158,F,35.0,Soltero,,Sector privado,Iphone  6,5.0,0.0,No,7.0,0.0,1.0,31.0,15.0
+222,M,30.0,Casado,Matematico,Institucion publica,Iphone 7,,0.0,No,50.0,50.0,15.0,1.0,0.0
+51,M,35.0,Soltero,Ingenieria en computacion,Sector privado,Iphone ,5.0,4.0,Si,50.0,31.0,,0.0,4.0
+156,M,24.0,Soltero,,Sector privado,Smartphone,5.0,0.0,Si,7.0,0.0,1.0,0.0,31.0
+135,M,40.0,Casado,Desempleados,Selfemployed ,LeNovo K5 Vibe,10.0,,No,31.0,31.0,31.0,0.0,1.0
+96,M,30.0,Casado,Psicologo,Sector privado,,5.0,,Si,1.0,,15.0,15.0,7.0
+89,F,50.0,Soltero,Desempleados,Desempleados,LG G3,5.0,4.0,No,1.0,50.0,15.0,15.0,0.0
+47,M,50.0,Soltero,adquisitivo,Sector privado,Samsung,5.0,,Si,,4.0,1.0,15.0,7.0
+235,F,24.0,Casado,Ingeniero electronico,Institucion publica,Samsung,5.0,6.0,No,1.0,50.0,0.0,0.0,1.0
+226,M,24.0,Casado,Psicologo,Institucion publica,Samsung AT,5.0,3.0,No,0.0,1.0,0.0,0.0,0.0
+3,F,50.0,Soltero,adquisitivo,Selfemployed ,Iphone 7S,15.0,3.0,Si,31.0,,0.0,0.0,31.0
+112,M,40.0,Casado,Ingeniero,Desempleados,Smartphone,5.0,0.0,Si,0.0,31.0,0.0,0.0,0.0
+53,M,45.0,Soltero,Ingeniero,Sector privado,Reeder,5.0,3.0,Si,7.0,0.0,15.0,1.0,
+3,M,30.0,Soltero,Ingenieria en computacion,Sector privado,Android,5.0,4.0,Si,7.0,50.0,0.0,1.0,0.0
+232,M,35.0,Casado,Ingeniero,Sector privado,0,10.0,0.0,No,50.0,1.0,1.0,0.0,31.0
+133,M,30.0,Soltero,Cajero,Sector privado,LG G3,10.0,7.0,No,7.0,50.0,1.0,0.0,30.0
+21,M,30.0,Casado,Ingeniero electrico,Institucion publica,Samsung,5.0,3.0,No,1.0,7.0,31.0,0.0,30.0
+242,F,30.0,Soltero,Ingeniero de informacion,Sector privado,SAMSUNG S6,0.0,3.0,No,31.0,7.0,1.0,0.0,1.0
+66,F,45.0,Soltero,Profesor,Institucion publica,Samsung S7+,10.0,5.0,No,,30.0,1.0,1.0,0.0
+188,F,24.0,Soltero,Gerente,Institucion publica,LG,5.0,6.0,No,31.0,0.0,31.0,0.0,0.0
+8,M,30.0,Casado,Profesor,Sector privado,Iphone,5.0,3.0,Si,50.0,7.0,15.0,0.0,15.0
+204,M,30.0,Soltero,Ingeniero de informacion,Sector privado,Iphone S5,5.0,4.0,No,4.0,0.0,0.0,15.0,
+66,M,35.0,Soltero,,Sector privado,Iphone ,0.0,4.0,Si,4.0,31.0,0.0,0.0,31.0
+26,F,35.0,Soltero,Ingenieria en computacion,Sector privado,Iphone 4S,5.0,3.0,Si,4.0,7.0,1.0,15.0,0.0
+3,F,35.0,Casado,,Sector privado,LG G2,5.0,3.0,Si,31.0,31.0,1.0,0.0,1.0
+7,M,24.0,Soltero,AlumNo,Institucion publica,Iphone,5.0,7.0,Si,0.0,7.0,1.0,0.0,1.0
+88,F,45.0,Casado,,Selfemployed ,Samsung,5.0,3.0,No,30.0,50.0,15.0,15.0,15.0
+81,M,35.0,Casado,Ingeniero de informacion,Sector privado,Iphone 4S,10.0,0.0,Si,31.0,7.0,1.0,0.0,7.0
+202,M,30.0,Soltero,Servidor publico,Sector privado,LG,5.0,,Si,0.0,1.0,0.0,0.0,0.0
+63,M,40.0,Soltero,Profesor,Institucion publica,Iphone,5.0,4.0,Si,1.0,7.0,0.0,0.0,30.0
+107,M,45.0,Soltero,Ingeniero,Institucion publica,,10.0,5.0,No,0.0,31.0,0.0,0.0,4.0
+14,,30.0,Casado,Ingeniero,Sector privado,Samsung J5,0.0,6.0,Si,,50.0,0.0,1.0,30.0
+226,F,50.0,Casado,Ingeniero electronico,Sector privado,,10.0,6.0,Si,0.0,4.0,15.0,0.0,0.0
+141,M,35.0,Casado,Ingenieria en computacion,Institucion publica,Android,10.0,0.0,Si,1.0,0.0,0.0,0.0,7.0
+175,M,30.0,Soltero,Ingeniero de software,Institucion publica,Iphone 6s,10.0,3.0,Si,4.0,31.0,31.0,0.0,1.0
+243,M,30.0,Soltero,Ingeniero,Desempleados,,5.0,5.0,Si,31.0,7.0,7.0,0.0,30.0
+219,M,30.0,Casado,Ingeniero,Institucion publica,Samsung S7+,15.0,3.0,No,7.0,50.0,0.0,0.0,15.0
+102,M,35.0,Casado,,Sector privado,LG,5.0,6.0,Si,4.0,1.0,1.0,15.0,0.0
+210,F,35.0,Casado,AlumNo,Institucion publica,Iphone,5.0,3.0,Si,50.0,50.0,0.0,0.0,0.0
+133,F,35.0,Casado,Desempleados,Sector privado,Iphone ,5.0,6.0,Si,1.0,7.0,0.0,0.0,4.0
+165,M,35.0,Casado,Ingeniero de informacion,Institucion publica,Samsung S7+,10.0,3.0,No,30.0,7.0,1.0,0.0,31.0
+199,M,40.0,Casado,,,Iphone,10.0,6.0,Si,50.0,0.0,1.0,0.0,7.0
+150,F,45.0,Soltero,Servidor publico,Institucion publica,Samsung,5.0,3.0,No,,31.0,0.0,15.0,0.0
+34,M,24.0,Soltero,,Institucion publica,,5.0,3.0,No,1.0,1.0,15.0,0.0,4.0
+53,F,45.0,Soltero,,Institucion publica,Samsung,10.0,6.0,Si,4.0,50.0,31.0,0.0,4.0
+154,0,30.0,Soltero,Psicologo,Institucion publica,Iphone S5,5.0,6.0,Si,,30.0,1.0,0.0,0.0
+217,M,24.0,Casado,Ingenieria en computacion,Sector privado,Iphone 6+,5.0,4.0,Si,,1.0,0.0,0.0,0.0
+108,F,30.0,Soltero,,Institucion publica,Iphone ,10.0,4.0,No,31.0,0.0,0.0,0.0,7.0
+165,M,50.0,Soltero,Profesor,Sector privado,Smartphone,5.0,3.0,Si,7.0,,1.0,0.0,0.0
+161,F,24.0,Soltero,Ingenieria en computacion,Sector privado,Samsung,5.0,0.0,No,31.0,4.0,1.0,1.0,7.0
+210,M,30.0,Soltero,Desempleados,Sector privado,Iphone ,5.0,6.0,Si,0.0,7.0,1.0,0.0,15.0
+3,F,35.0,Soltero,Servidor publico,Sector privado,ASUS,5.0,3.0,Si,0.0,,15.0,0.0,1.0
+182,F,40.0,,,Sector privado,Iphone ,5.0,3.0,Si,50.0,50.0,15.0,0.0,4.0
+167,M,30.0,Casado,Servidor publico,Sector privado,Iphone ,5.0,,No,0.0,50.0,15.0,0.0,0.0
+149,M,30.0,Casado,Profesor,Sector privado,Samsung,5.0,3.0,Si,30.0,31.0,0.0,0.0,0.0
+29,F,24.0,Casado,Retirado,Institucion publica,Samsung 7+ Edge,10.0,3.0,Si,,31.0,31.0,0.0,15.0
+120,M,35.0,Soltero,Ingeniero,Sector privado,,5.0,,Si,,30.0,0.0,0.0,1.0
+162,M,,Soltero,,Sector privado,Iphone ,10.0,3.0,Si,4.0,31.0,0.0,31.0,4.0
+128,M,24.0,Casado,Servidor publico,Desempleados,Iphone 6,5.0,0.0,Si,31.0,31.0,1.0,15.0,0.0
+111,M,50.0,Soltero,Ingenieria en computacion,Institucion publica,Sony,5.0,3.0,No,31.0,4.0,0.0,1.0,1.0
+21,M,30.0,Soltero,ArtesaNo,Sector privado,Samsung,5.0,4.0,Si,0.0,50.0,0.0,0.0,31.0
+136,M,35.0,Soltero,Ingenieria en computacion,Sector privado,Iphone 5,5.0,7.0,Si,1.0,7.0,0.0,0.0,7.0
+46,M,30.0,Soltero,Ingeniero de informacion,Sector privado,Asus ZenFone Selfie,10.0,4.0,Si,0.0,31.0,1.0,15.0,15.0
+194,M,45.0,Casado,Minero,Sector privado,LG G3,5.0,4.0,No,31.0,1.0,0.0,1.0,0.0
+133,F,40.0,Casado,Guia turistica,Sector privado,LG,5.0,4.0,Si,7.0,50.0,1.0,15.0,15.0
+91,M,35.0,Soltero,Cajero,Sector privado,LG,5.0,3.0,Si,1.0,50.0,0.0,0.0,1.0
+12,M,35.0,Soltero,,Institucion publica,Samsung Note 3,5.0,3.0,Si,31.0,7.0,30.0,0.0,1.0
+4,F,35.0,Casado,Ingenieria en computacion,Sector privado,Samsung S3,5.0,3.0,Si,30.0,7.0,1.0,0.0,1.0
+69,F,50.0,Soltero,Psicologo,Institucion publica,0,5.0,4.0,No,7.0,7.0,1.0,1.0,0.0
+174,F,45.0,Casado,Servidor publico,Sector privado,,10.0,3.0,No,50.0,4.0,1.0,0.0,0.0
+187,F,30.0,Casado,,Institucion publica,Iphone  5S,0.0,3.0,Si,31.0,0.0,31.0,1.0,
+156,M,35.0,Casado,Ingeniero biomedico,Sector privado,Samsung 7+ Edge,5.0,0.0,Si,4.0,7.0,0.0,15.0,7.0
+143,M,30.0,Soltero,Ingeniero,Institucion publica,Sony,10.0,3.0,No,,7.0,15.0,0.0,7.0
+101,M,35.0,Soltero,Ingeniero biomedico,Institucion publica,Iphone ,5.0,3.0,Si,,50.0,1.0,0.0,30.0
+42,F,24.0,Casado,Servidor publico,Sector privado,Galaxy S4,10.0,6.0,Si,30.0,30.0,0.0,0.0,
+18,M,24.0,Soltero,Ingenieria en computacion,Sector privado,Iphone 7,5.0,3.0,No,4.0,0.0,0.0,0.0,0.0
+93,M,35.0,Casado,Ingeniero,Sector privado,Iphone,5.0,7.0,Si,4.0,50.0,15.0,0.0,0.0
+96,M,40.0,Soltero,Matematico,Sector privado,LG,10.0,3.0,Si,0.0,7.0,31.0,0.0,15.0
+241,F,50.0,Casado,Ingeniero,Institucion publica,Samsung Note 4,5.0,3.0,Si,1.0,7.0,1.0,0.0,30.0
+4,F,45.0,Soltero,,Institucion publica,Smartphone,0.0,6.0,Si,30.0,50.0,0.0,0.0,31.0
+1,M,24.0,Soltero,Ingeniero biomedico,Sector privado,,5.0,3.0,Si,50.0,31.0,31.0,0.0,15.0
+75,F,40.0,Casado,AlumNo,Institucion publica,Iphone,6.0,3.0,No,4.0,0.0,1.0,15.0,4.0
+9,M,30.0,Soltero,AlumNo,Institucion publica,Iphone ,6.0,3.0,Si,4.0,31.0,31.0,0.0,0.0
+13,F,24.0,Soltero,Servidor publico,Sector privado,Samsung S3,5.0,3.0,Si,7.0,7.0,0.0,15.0,7.0
+212,M,24.0,Soltero,Ingeniero electronico,Sector privado,Iphone ,5.0,4.0,Si,31.0,30.0,15.0,0.0,1.0
+52,M,30.0,Soltero,Desempleados,Institucion publica,ASUS,5.0,6.0,Si,50.0,1.0,0.0,0.0,1.0
+18,M,35.0,Casado,Desempleados,Institucion publica,Iphone 6,10.0,6.0,Si,1.0,1.0,15.0,0.0,35.0
+215,M,30.0,,Servidor publico,Sector privado,Iphone,5.0,,No,30.0,7.0,15.0,0.0,15.0
+71,F,50.0,Soltero,,,,5.0,3.0,Si,0.0,4.0,1.0,0.0,4.0
+243,M,40.0,Soltero,Desempleados,Institucion publica,Samsung S6 EDGE,10.0,,No,1.0,4.0,1.0,0.0,7.0
+11,F,24.0,Casado,Desempleados,Institucion publica,Samsung S6 EDGE,,3.0,No,1.0,0.0,31.0,0.0,15.0
+118,M,45.0,Casado,Servidor publico,Sector privado,Iphone 5S,5.0,3.0,Si,31.0,7.0,15.0,0.0,15.0
+129,M,45.0,Casado,adquisitivo,Sector privado,Iphone 6+,5.0,3.0,Si,31.0,31.0,15.0,0.0,4.0
+36,F,45.0,Casado,Desempleados,Sector privado,Iphone 5S,5.0,6.0,Si,1.0,7.0,1.0,1.0,0.0
+101,M,50.0,Casado,Ingeniero electrico,Institucion publica,Samsung,5.0,6.0,No,1.0,0.0,1.0,1.0,1.0
+122,M,40.0,Casado,,Institucion publica,Samsung,5.0,3.0,Si,30.0,,1.0,0.0,31.0
+2,,35.0,Soltero,Servidor publico,Sector privado,,5.0,6.0,No,31.0,31.0,31.0,0.0,35.0
+167,F,30.0,Casado,Desempleados,Institucion publica,LG G3,5.0,4.0,Si,0.0,31.0,0.0,0.0,15.0
+64,M,30.0,Soltero,Profesor,Sector privado,0,0.0,3.0,No,,7.0,15.0,0.0,0.0
+66,F,45.0,Casado,Desempleados,Desempleados,Iphone ,10.0,,Si,4.0,7.0,1.0,0.0,1.0
+201,M,24.0,Casado,Ingeniero,Sector privado,Smartphone,5.0,3.0,Si,,0.0,31.0,0.0,15.0
+22,F,40.0,Casado,Desempleados,,Samsung j5,5.0,3.0,Si,30.0,4.0,1.0,0.0,31.0
+10,M,30.0,Casado,Contador,Sector privado,Samsung A5,5.0,7.0,Si,,31.0,1.0,15.0,15.0
+116,M,30.0,Soltero,Desempleados,Institucion publica,LG,5.0,3.0,Si,31.0,7.0,0.0,31.0,15.0
+21,M,30.0,Casado,,Institucion publica,Asus,10.0,3.0,Si,0.0,50.0,0.0,1.0,0.0
+76,F,35.0,Casado,Enfermera,Sector privado,Samsung,5.0,7.0,No,,31.0,1.0,0.0,0.0
+152,M,30.0,Soltero,Profesor,Institucion publica,Iphone ,5.0,,No,,0.0,1.0,0.0,4.0
+75,F,45.0,Casado,Ingeniero de informacion,Desempleados,Iphone,5.0,3.0,Si,0.0,1.0,1.0,0.0,1.0
+167,M,24.0,Soltero,Ingenieria en computacion,Sector privado,Iphone,5.0,3.0,Si,4.0,7.0,0.0,0.0,0.0
+164,M,30.0,Soltero,Ingeniero,Institucion publica,HTC ,10.0,3.0,Si,50.0,0.0,31.0,0.0,15.0
+195,F,30.0,Soltero,Ingenieria en computacion,Sector privado,LeNovo A7000,5.0,3.0,No,0.0,7.0,1.0,31.0,4.0
+237,M,30.0,Soltero,,Institucion publica,General Mobile,0.0,4.0,No,31.0,30.0,1.0,0.0,1.0
+6,F,35.0,Casado,Servidor publico,Sector privado,Iphone,0.0,4.0,Si,,1.0,1.0,0.0,7.0
+6,F,30.0,Soltero,Profesor,Institucion publica,Samsung AT,5.0,3.0,Si,7.0,7.0,0.0,0.0,35.0
+67,M,30.0,Casado,Desempleados,Sector privado,Iphone ,5.0,0.0,Si,30.0,30.0,1.0,0.0,31.0
+53,F,45.0,Soltero,Profesor,Institucion publica,Iphone ,0.0,3.0,Si,0.0,0.0,1.0,0.0,7.0
+193,M,35.0,,Profesor,Institucion publica,General Mobile,0.0,3.0,Si,1.0,31.0,0.0,0.0,
+26,M,40.0,Casado,,Desempleados,Smartphone,5.0,0.0,No,50.0,50.0,1.0,0.0,0.0
+189,M,45.0,Casado,Ingeniero de software,Institucion publica,Genaral Mobile,5.0,3.0,Si,1.0,,1.0,0.0,1.0
+64,M,35.0,Casado,AlumNo,Desempleados,Smartphone,,3.0,No,4.0,4.0,1.0,0.0,0.0
+100,F,30.0,Casado,Minero,Institucion publica,Samsung,5.0,6.0,No,31.0,31.0,0.0,0.0,35.0
+244,F,30.0,Casado,,Sector privado,Iphone 6,10.0,4.0,No,0.0,1.0,1.0,0.0,15.0
+162,M,50.0,Casado,,Sector privado,Huawei 6205,,3.0,Si,4.0,50.0,1.0,0.0,1.0
+221,M,30.0,Soltero,Profesor,Institucion publica,Iphone,5.0,0.0,Si,31.0,7.0,0.0,0.0,0.0
+102,M,30.0,Soltero,Ingenieria en computacion,Desempleados,Samsung,5.0,6.0,No,4.0,30.0,15.0,0.0,1.0
+176,M,30.0,Casado,Ingeniero,,Iphone 5S,5.0,7.0,No,1.0,31.0,15.0,0.0,0.0
+21,F,40.0,Soltero,Analista de informacion,Selfemployed ,Iphone ,10.0,7.0,Si,1.0,4.0,31.0,0.0,4.0
+8,F,45.0,Casado,Ingeniero,Institucion publica,Iphone,0.0,3.0,No,1.0,30.0,1.0,0.0,35.0
+110,M,30.0,Soltero,adquisitivo,Sector privado,SONY Z2,5.0,3.0,Si,1.0,,15.0,0.0,0.0
+145,M,35.0,Soltero,Profesor,Sector privado,Reeder,10.0,3.0,No,1.0,4.0,0.0,0.0,7.0
+201,,30.0,Casado,Ingeniero de maquinaria,Desempleados,Samsung,10.0,3.0,Si,31.0,7.0,1.0,0.0,30.0
+80,M,35.0,Soltero,Servidor publico,Sector privado,Iphone ,10.0,,Si,1.0,50.0,1.0,0.0,0.0
+189,M,30.0,Soltero,Psicologo,Desempleados,Iphone 6s,5.0,3.0,No,1.0,1.0,7.0,15.0,31.0
+224,F,24.0,Casado,Analista de informacion,Institucion publica,HTC ,5.0,5.0,Si,7.0,50.0,15.0,1.0,31.0
+185,M,30.0,Casado,Ingeniero de informacion,Sector privado,Iphone ,15.0,0.0,No,0.0,30.0,1.0,15.0,15.0
+31,M,30.0,Casado,Medico,Institucion publica,Iphone ,10.0,6.0,Si,31.0,4.0,1.0,0.0,0.0
+10,F,24.0,Soltero,Medico,Institucion publica,Asus,5.0,3.0,No,1.0,50.0,1.0,0.0,1.0
+84,M,35.0,Casado,Guia turistica,Sector privado,Iphone,0.0,3.0,No,50.0,0.0,31.0,15.0,1.0
+52,F,35.0,Casado,,Sector privado,Samsung,10.0,6.0,No,31.0,0.0,1.0,1.0,35.0
+238,M,24.0,Soltero,Analista de informacion,Institucion publica,,10.0,7.0,No,31.0,50.0,0.0,0.0,15.0
+108,M,30.0,Casado,Enfermera,Institucion publica,Samsung S3,5.0,5.0,No,31.0,31.0,0.0,15.0,31.0
+191,M,30.0,Casado,Ingeniero de informacion,Sector privado,Samsung,5.0,3.0,Si,7.0,7.0,1.0,0.0,7.0
+17,F,50.0,Soltero,,Sector privado,Samsung,5.0,6.0,Si,31.0,31.0,31.0,0.0,
+17,F,30.0,Soltero,Ingeniero,Sector privado,ASUS,0.0,4.0,Si,,31.0,0.0,0.0,0.0
+94,F,50.0,Soltero,Profesor,Institucion publica,,0.0,3.0,Si,,31.0,1.0,0.0,0.0
+69,M,35.0,Casado,,Desempleados,Samsung A5,5.0,7.0,Si,0.0,1.0,1.0,0.0,15.0
+92,M,30.0,Soltero,Servidor publico,,General mobile,5.0,6.0,Si,31.0,30.0,7.0,0.0,0.0
+141,F,24.0,Casado,,Institucion publica,Reeder,5.0,5.0,Si,1.0,50.0,0.0,0.0,4.0
+142,,50.0,Soltero,Servidor publico,Sector privado,Smartphone,5.0,0.0,Si,7.0,7.0,15.0,0.0,7.0
+188,M,40.0,Soltero,adquisitivo,Institucion publica,,10.0,7.0,No,0.0,31.0,15.0,1.0,1.0
+72,M,35.0,Casado,Profesor,Sector privado,Iphone 6,5.0,6.0,Si,31.0,7.0,1.0,0.0,0.0
+234,M,30.0,Soltero,Profesor,Sector privado,Iphone ,10.0,0.0,Si,31.0,7.0,0.0,0.0,7.0
+143,F,30.0,Casado,Desempleados,Institucion publica,Iphone 6,5.0,6.0,Si,31.0,50.0,1.0,0.0,7.0
+241,M,30.0,Casado,Ingenieria en computacion,Sector privado,Samsung S3,10.0,4.0,No,0.0,1.0,1.0,0.0,0.0
+37,M,24.0,Casado,,Institucion publica,Iphone ,5.0,3.0,Si,1.0,50.0,1.0,0.0,0.0
+74,F,30.0,Soltero,Servidor publico,Institucion publica,Iphone ,0.0,4.0,No,7.0,4.0,1.0,0.0,0.0
+101,M,30.0,Casado,Servidor publico,,VODEFONE SMART 6,5.0,3.0,Si,4.0,7.0,1.0,,31.0
+172,F,30.0,Soltero,,Sector privado,Iphone 5S,10.0,3.0,Si,50.0,50.0,0.0,0.0,31.0
+10,F,24.0,Soltero,Minero,Sector privado,,0.0,3.0,Si,31.0,31.0,31.0,,7.0
+22,M,35.0,Casado,Profesor,Sector privado,Asus ZenFone Selfie,5.0,7.0,Si,31.0,7.0,31.0,0.0,31.0
+33,M,40.0,Casado,Profesor,Sector privado,LG,5.0,3.0,No,50.0,1.0,0.0,0.0,15.0
+105,F,,Soltero,Profesor,Institucion publica,L G,5.0,3.0,No,7.0,4.0,31.0,0.0,0.0
+20,M,40.0,Soltero,,Institucion publica,Iphone ,5.0,3.0,No,0.0,0.0,1.0,0.0,1.0
+109,F,50.0,Soltero,Profesor,Institucion publica,Samsung Note 4,0.0,3.0,Si,1.0,7.0,0.0,0.0,0.0
+202,M,30.0,Casado,Ingeniero electrico,Selfemployed ,Samsung s3,5.0,0.0,Si,31.0,,1.0,0.0,15.0
+135,M,50.0,Casado,Ingeniero,Institucion publica,,5.0,3.0,Si,0.0,50.0,31.0,0.0,7.0
+186,F,50.0,Casado,,Sector privado,ASUS,10.0,6.0,Si,31.0,31.0,0.0,0.0,15.0
+248,M,30.0,Soltero,Ingeniero electrico,Institucion publica,Iphone 5,5.0,3.0,Si,7.0,0.0,1.0,0.0,1.0
+91,F,35.0,Casado,Ingeniero,Selfemployed ,Iphone ,10.0,3.0,Si,0.0,30.0,1.0,0.0,0.0
+75,M,35.0,Soltero,Desempleados,Sector privado,Iphone 6,6.0,0.0,Si,1.0,50.0,1.0,0.0,31.0
+47,M,40.0,Soltero,Retirado,Institucion publica,Xperia,10.0,3.0,Si,7.0,30.0,15.0,0.0,0.0
+81,F,50.0,Casado,Ingenieria en computacion,Selfemployed ,Iphone,10.0,4.0,Si,0.0,7.0,15.0,31.0,0.0
+91,F,30.0,Soltero,Ingeniero,Sector privado,Iphone 6,5.0,3.0,No,1.0,50.0,1.0,,15.0
+100,F,24.0,Casado,Profesor,Institucion publica,Iphone  5S,5.0,6.0,No,0.0,50.0,0.0,15.0,4.0
+99,M,30.0,Casado,,Institucion publica,Samsung S7+,10.0,3.0,No,1.0,31.0,0.0,1.0,0.0
+4,F,35.0,Soltero,business intelligence developer,Sector privado,Sony,10.0,6.0,Si,31.0,0.0,31.0,15.0,4.0
+233,M,24.0,Soltero,Servidor publico,Institucion publica,Iphone,5.0,0.0,Si,,7.0,1.0,1.0,4.0
+117,M,40.0,Soltero,,Sector privado,,10.0,3.0,Si,1.0,,1.0,0.0,31.0
+196,F,45.0,Casado,Ingeniero de informacion,Institucion publica,SONY XPER?A 75,0.0,6.0,Si,,30.0,31.0,1.0,31.0
+168,M,40.0,,ArtesaNo,Institucion publica,SONY,5.0,3.0,No,1.0,7.0,1.0,0.0,31.0
+114,F,,Casado,Profesor,Sector privado,Iphone 6S,5.0,3.0,No,30.0,31.0,1.0,15.0,1.0
+157,F,40.0,Soltero,Servidor publico,Sector privado,Iphone ,6.0,3.0,No,1.0,50.0,0.0,1.0,4.0
+192,M,35.0,Soltero,Ingeniero,,Iphone 6,5.0,3.0,No,0.0,7.0,1.0,0.0,0.0
+22,M,35.0,Soltero,Ingenieria en computacion,Sector privado,Iphone 5S,10.0,7.0,Si,30.0,4.0,15.0,0.0,1.0
+21,F,35.0,Soltero,Ingenieria en computacion,Institucion publica,Iphone 5S,5.0,3.0,No,31.0,50.0,0.0,0.0,1.0
+200,M,30.0,Casado,Ingeniero de software,Sector privado,Iphone S5,15.0,3.0,No,0.0,31.0,1.0,0.0,0.0
+130,F,30.0,Soltero,Ingenieria en computacion,Sector privado,Iphone 6,5.0,6.0,Si,7.0,31.0,15.0,0.0,1.0
+184,F,30.0,Casado,,Institucion publica,,5.0,3.0,Si,,7.0,31.0,15.0,15.0
+105,M,35.0,Casado,Medico,Institucion publica,ASUS,5.0,,Si,7.0,7.0,15.0,0.0,15.0
+182,F,50.0,Casado,Desempleados,Sector privado,Samsung Note 2,5.0,3.0,Si,31.0,4.0,1.0,15.0,15.0
+33,F,35.0,Casado,Ingenieria en computacion,Sector privado,Nokia,5.0,3.0,Si,7.0,0.0,31.0,31.0,4.0
+125,F,35.0,Soltero,business intelligence developer,Desempleados,Samsung,5.0,6.0,Si,7.0,50.0,1.0,15.0,
+101,F,30.0,Casado,Medico,Sector privado,Casper,5.0,6.0,Si,,,1.0,30.0,4.0
+96,F,30.0,,Analista de informacion,Sector privado,Samsung,10.0,3.0,No,31.0,50.0,0.0,0.0,31.0
+120,F,30.0,Casado,Profesor,Institucion publica,Sony,5.0,3.0,Si,31.0,1.0,0.0,0.0,15.0
+221,M,30.0,Soltero,Ingenieria en computacion,Sector privado,LeNovo A7000,5.0,6.0,Si,31.0,50.0,0.0,0.0,0.0
+20,M,40.0,Casado,Minero,Sector privado,Iphone ,5.0,3.0,Si,0.0,1.0,1.0,31.0,30.0
+108,M,35.0,Soltero,Ingeniero,Sector privado,Samsung S3,5.0,0.0,Si,30.0,1.0,1.0,0.0,1.0
+96,F,30.0,Casado,Ingeniero,Institucion publica,Samsung Note 3,5.0,3.0,Si,7.0,30.0,1.0,15.0,7.0
+159,M,40.0,Casado,Matematico,Institucion publica,HTC M8,5.0,6.0,No,31.0,7.0,1.0,1.0,15.0
+181,,30.0,Soltero,,Institucion publica,LG G4,5.0,5.0,No,30.0,7.0,15.0,0.0,7.0
+154,,24.0,Casado,Profesor,Sector privado,Samsung S6,5.0,3.0,No,31.0,,0.0,0.0,7.0
+132,M,40.0,Casado,Profesor,Institucion publica,Samsung,5.0,6.0,Si,30.0,1.0,0.0,0.0,15.0
+206,F,40.0,Casado,Profesor,Sector privado,Iphone 5S,10.0,6.0,Si,7.0,31.0,7.0,0.0,0.0
+233,M,50.0,Casado,Desempleados,Sector privado,Iphone  6,15.0,,Si,,31.0,0.0,0.0,7.0
+10,F,35.0,Casado,Profesor,Sector privado,LG G2,10.0,7.0,Si,31.0,0.0,0.0,15.0,31.0
+168,F,,Soltero,,Institucion publica,Galaxy S4,5.0,7.0,Si,1.0,1.0,1.0,0.0,30.0
+46,0,40.0,Casado,Retirado,Institucion publica,Iphone ,5.0,6.0,Si,,31.0,1.0,0.0,4.0
+125,F,24.0,Casado,Profesor,Institucion publica,Samsung S7+,5.0,6.0,Si,,50.0,1.0,15.0,0.0
+114,F,50.0,Casado,Ingenieria en computacion,Institucion publica,Samsung,5.0,3.0,Si,4.0,31.0,,1.0,0.0
+101,M,45.0,Casado,Profesor,Institucion publica,Iphone 7,0.0,3.0,No,31.0,7.0,15.0,0.0,31.0
+249,F,35.0,Soltero,Enfermera,Desempleados,Sony,10.0,3.0,Si,30.0,30.0,1.0,0.0,31.0
+43,M,24.0,Soltero,,Institucion publica,Asus,5.0,0.0,No,31.0,7.0,15.0,0.0,30.0
+245,M,40.0,Casado,Servidor publico,Sector privado,Iphone 6+,5.0,6.0,No,31.0,7.0,0.0,0.0,15.0
+228,M,24.0,Soltero,Ingeniero de software,Sector privado,Samsung,5.0,3.0,Si,1.0,50.0,15.0,0.0,31.0
+117,F,30.0,Soltero,Profesor,Institucion publica,Samsung Note 3,5.0,3.0,Si,,0.0,1.0,,15.0
+53,F,35.0,Casado,Profesor,Sector privado,Galaxy S4,15.0,6.0,Si,31.0,31.0,1.0,0.0,
+218,M,,Soltero,Profesor,Institucion publica,Iphone ,0.0,3.0,Si,7.0,31.0,1.0,0.0,1.0
+24,M,30.0,Soltero,Ingeniero,Desempleados,Sony,5.0,3.0,Si,31.0,50.0,1.0,0.0,1.0
+226,M,50.0,Soltero,Ingeniero,Sector privado,Iphone 6,5.0,,Si,1.0,7.0,1.0,0.0,15.0
+106,F,30.0,Casado,Profesor,Institucion publica,Samsung S3,5.0,3.0,No,31.0,31.0,1.0,0.0,0.0
+12,F,24.0,Casado,adquisitivo,Sector privado,Iphone 7,5.0,,Si,31.0,31.0,31.0,0.0,31.0
+207,M,30.0,Soltero,Ingeniero,Institucion publica,Iphone,10.0,3.0,Si,31.0,0.0,15.0,0.0,4.0
+96,M,24.0,Casado,Profesor,Sector privado,Iphone ,10.0,7.0,No,7.0,30.0,0.0,0.0,
+210,M,30.0,Soltero,Enfermera,Sector privado,Iphone ,5.0,3.0,No,31.0,1.0,1.0,0.0,0.0
+214,M,24.0,Soltero,Profesor,Sector privado,LG,5.0,0.0,No,0.0,30.0,1.0,0.0,7.0
+105,F,40.0,Casado,Servidor publico,Sector privado,Iphone 6+,5.0,3.0,Si,4.0,7.0,1.0,0.0,7.0
+62,M,30.0,Soltero,,Institucion publica,Samsung,5.0,5.0,Si,0.0,30.0,0.0,0.0,0.0
+96,M,24.0,Casado,Desempleados,Sector privado,Samsung,5.0,3.0,Si,50.0,30.0,1.0,15.0,0.0
+50,M,40.0,Soltero,Ingenieria en computacion,Sector privado,Sony,10.0,3.0,Si,7.0,7.0,1.0,0.0,15.0
+134,M,50.0,Casado,Servidor publico,Institucion publica,Samsung S3,5.0,0.0,No,4.0,7.0,0.0,0.0,7.0
+180,F,30.0,Casado,Desempleados,Institucion publica,Iphone ,10.0,3.0,Si,1.0,31.0,0.0,15.0,0.0
+115,M,45.0,,Ingenieria en computacion,Sector privado,,5.0,3.0,Si,31.0,7.0,15.0,0.0,1.0
+238,M,30.0,Casado,Profesor,,Iphone 6,5.0,3.0,Si,1.0,50.0,0.0,0.0,1.0
+172,M,35.0,Casado,Analista de informacion,Sector privado,Samsung S3,5.0,3.0,Si,1.0,,1.0,0.0,1.0
+61,F,45.0,Soltero,,,Iphone 6,5.0,6.0,No,7.0,31.0,15.0,0.0,31.0
+110,M,24.0,Casado,,Institucion publica,Iphone 5S,5.0,4.0,Si,1.0,,1.0,1.0,0.0
+124,F,30.0,Soltero,,Desempleados,Asus,10.0,3.0,No,,1.0,0.0,0.0,0.0
+127,F,40.0,Casado,Cajero,Sector privado,Samsung,10.0,7.0,Si,1.0,0.0,1.0,1.0,0.0
+118,M,30.0,Soltero,Ingeniero de software,Desempleados,Iphone ,5.0,3.0,Si,7.0,4.0,1.0,0.0,1.0
+180,M,35.0,Soltero,Desempleados,Sector privado,LeNovo S1 Lite,10.0,7.0,Si,31.0,,1.0,0.0,15.0
+138,F,45.0,Casado,Ingeniero,Sector privado,Android,5.0,,Si,30.0,31.0,0.0,0.0,31.0
+161,F,30.0,Casado,,Sector privado,General Mobile,10.0,6.0,Si,0.0,0.0,1.0,15.0,0.0
+129,M,50.0,Soltero,Ingeniero,Institucion publica,Nokia,5.0,6.0,Si,1.0,7.0,0.0,0.0,7.0
+225,M,30.0,Soltero,adquisitivo,Sector privado,Iphone 6,10.0,3.0,Si,7.0,,15.0,15.0,7.0
+142,M,35.0,Casado,Profesor,Institucion publica,HTC,0.0,0.0,No,7.0,1.0,1.0,0.0,1.0
+96,F,40.0,Soltero,Ingeniero,Sector privado,Samsung S6 EDGE,0.0,4.0,Si,31.0,30.0,1.0,0.0,15.0
+168,F,30.0,Soltero,Profesor,Institucion publica,Casper,0.0,3.0,Si,0.0,,1.0,,31.0
+116,M,35.0,Soltero,Profesor,Institucion publica,Samsung,10.0,3.0,Si,7.0,31.0,1.0,0.0,35.0
+73,F,24.0,Casado,,Sector privado,Samsung S7+,5.0,0.0,Si,31.0,4.0,0.0,0.0,0.0
+71,F,45.0,Casado,Ingeniero electronico,Sector privado,Iphone 5S,5.0,3.0,Si,50.0,1.0,1.0,0.0,31.0
+159,M,30.0,Casado,Ingeniero biomedico,Sector privado,Iphone ,5.0,6.0,Si,0.0,7.0,0.0,0.0,31.0
+53,M,30.0,Casado,Profesor,Institucion publica,0,5.0,3.0,Si,7.0,7.0,1.0,0.0,15.0
+11,M,35.0,Casado,,Institucion publica,Iphone,5.0,6.0,No,30.0,31.0,1.0,0.0,0.0
+153,M,24.0,Soltero,Enfermera,Sector privado,Samsung,5.0,3.0,Si,7.0,0.0,0.0,1.0,15.0
+181,F,40.0,Soltero,,Sector privado,Iphone 6,5.0,3.0,Si,0.0,30.0,31.0,0.0,31.0
+86,M,35.0,Casado,Desempleados,Sector privado,Iphone 6,,6.0,Si,7.0,31.0,1.0,0.0,31.0
+194,M,30.0,Casado,Ingeniero de software,Sector privado,Asus,0.0,3.0,Si,31.0,50.0,1.0,15.0,1.0
+69,M,35.0,Soltero,Desempleados,Sector privado,Samsung 7+ Edge,10.0,3.0,Si,31.0,31.0,31.0,0.0,7.0
+222,F,30.0,Soltero,Servidor publico,Desempleados,Iphone 5S,15.0,3.0,No,1.0,7.0,7.0,0.0,31.0
+19,M,50.0,Casado,,Sector privado,Iphone ,0.0,3.0,Si,1.0,30.0,1.0,0.0,0.0
+37,M,45.0,Soltero,Ingeniero biomedico,Sector privado,Samsung S3,10.0,7.0,Si,50.0,7.0,0.0,0.0,0.0
+97,M,30.0,Casado,adquisitivo,Sector privado,Iphone ,5.0,3.0,Si,7.0,50.0,1.0,,0.0
+132,F,35.0,Soltero,Servidor publico,Sector privado,Samsung Note 4,5.0,3.0,Si,50.0,31.0,0.0,,31.0
+187,M,40.0,Soltero,,Sector privado,Iphone ,5.0,3.0,No,31.0,50.0,1.0,0.0,0.0
+172,M,24.0,Casado,Ingeniero,Institucion publica,,5.0,3.0,No,50.0,0.0,1.0,0.0,15.0
+125,M,30.0,Casado,AlumNo,Sector privado,Iphone  6,0.0,3.0,Si,,31.0,15.0,15.0,15.0
+174,M,50.0,Casado,AlumNo,Institucion publica,LG G2,10.0,3.0,Si,31.0,,1.0,0.0,0.0
+205,F,24.0,Soltero,Ingeniero de software,Institucion publica,Xperia,5.0,4.0,No,31.0,0.0,31.0,0.0,31.0
+135,M,35.0,Casado,Profesor,Desempleados,Samsung,5.0,0.0,No,4.0,1.0,31.0,0.0,4.0
+130,M,40.0,Casado,Ingeniero electronico,Institucion publica,Samsung,10.0,3.0,Si,31.0,0.0,15.0,1.0,0.0
+55,M,,Soltero,Servidor publico,Institucion publica,LG G3,10.0,,Si,1.0,7.0,1.0,0.0,0.0
+60,F,50.0,Soltero,Analista de informacion,Sector privado,Asus ZenFone,5.0,3.0,Si,7.0,50.0,1.0,0.0,0.0
+121,F,35.0,Soltero,Desempleados,Sector privado,Sony,5.0,5.0,Si,30.0,30.0,1.0,0.0,0.0
+204,M,30.0,Casado,Profesor,Selfemployed ,Samsung Note 4,5.0,7.0,No,,0.0,0.0,0.0,15.0
+26,M,24.0,Casado,Ingenieria en computacion,Institucion publica,,10.0,0.0,Si,1.0,7.0,1.0,0.0,31.0
+37,M,30.0,Soltero,Servidor publico,Sector privado,Samsung,10.0,4.0,Si,1.0,7.0,1.0,15.0,1.0
+196,M,35.0,Casado,Ingeniero de informacion,Institucion publica,Samsung Note 4,5.0,3.0,Si,7.0,7.0,31.0,0.0,1.0
+2,M,45.0,Soltero,Servidor publico,Selfemployed ,Samsung S7+,0.0,3.0,No,,0.0,1.0,0.0,1.0
+188,F,30.0,Casado,Ingeniero de informacion,Sector privado,,5.0,3.0,Si,0.0,31.0,0.0,0.0,31.0
+204,F,35.0,Casado,,Institucion publica,LG G3,10.0,0.0,Si,1.0,31.0,1.0,15.0,0.0
+230,F,40.0,Casado,Servidor publico,Institucion publica,Samsung,5.0,3.0,Si,1.0,31.0,0.0,0.0,4.0
+247,M,35.0,Soltero,Desempleados,Institucion publica,General Mobile,10.0,6.0,No,7.0,7.0,15.0,1.0,31.0
+185,F,,Soltero,Ingeniero,Institucion publica,Iphone 6+,10.0,0.0,No,7.0,4.0,31.0,4.0,1.0
+113,F,45.0,Soltero,Ingenieria en computacion,Selfemployed ,,0.0,3.0,Si,7.0,7.0,31.0,0.0,15.0
+45,M,30.0,,entrenador,Institucion publica,L G,5.0,3.0,Si,31.0,7.0,15.0,1.0,7.0
+222,M,45.0,Soltero,Ingenieria en computacion,Desempleados,LeNovo A7000,5.0,3.0,Si,0.0,50.0,1.0,0.0,15.0
+135,F,30.0,Soltero,Ingeniero,Desempleados,Samsung,10.0,4.0,Si,,7.0,31.0,0.0,31.0
+144,F,30.0,Casado,Servidor publico,Sector privado,Samsung Note 3,0.0,3.0,Si,31.0,50.0,15.0,0.0,1.0
+216,M,50.0,Soltero,AlumNo,Sector privado,Iphone,5.0,7.0,Si,31.0,50.0,1.0,15.0,1.0
+48,M,45.0,Soltero,,Sector privado,Iphone  5S,10.0,5.0,Si,0.0,31.0,0.0,1.0,30.0
+129,M,24.0,Casado,Medico,Institucion publica,Samsung Note 3,10.0,7.0,No,0.0,7.0,1.0,0.0,1.0
+113,F,40.0,Soltero,,Sector privado,Iphone,10.0,3.0,No,4.0,50.0,31.0,0.0,7.0
+81,M,30.0,Casado,Analista de informacion,Desempleados,Smartphone,0.0,3.0,No,1.0,7.0,1.0,15.0,1.0
+241,,35.0,Soltero,entrenador,Sector privado,LG G2,5.0,3.0,Si,31.0,30.0,7.0,1.0,15.0
+61,M,35.0,Soltero,,Sector privado,LG,0.0,3.0,Si,31.0,7.0,0.0,15.0,0.0
+157,M,35.0,Casado,,Institucion publica,LeNovo S1 Lite,5.0,3.0,Si,0.0,,31.0,0.0,7.0
+34,F,40.0,Casado,Servidor publico,Sector privado,Iphone 5,5.0,3.0,Si,50.0,,1.0,0.0,0.0
+171,M,50.0,Casado,ArtesaNo,Sector privado,Samsung J5,5.0,3.0,No,0.0,50.0,1.0,0.0,0.0
+240,M,35.0,Soltero,Ingenieria en computacion,Sector privado,Genaral Mobile,10.0,7.0,No,4.0,,0.0,0.0,30.0
+128,M,40.0,Soltero,Profesor,Sector privado,Samsung S3,0.0,4.0,Si,1.0,30.0,0.0,,0.0
+63,M,24.0,Casado,,Institucion publica,Iphone 6S,0.0,3.0,Si,,1.0,1.0,0.0,0.0
+141,F,30.0,Casado,Ingeniero,Sector privado,Android,5.0,6.0,Si,7.0,50.0,1.0,0.0,35.0
+81,M,30.0,Soltero,,Sector privado,HTC M8,5.0,6.0,No,1.0,30.0,1.0,0.0,0.0
+244,M,30.0,,Ingeniero biomedico,Sector privado,SONY XPER?A 75,5.0,,No,30.0,50.0,1.0,0.0,0.0
+52,M,50.0,Casado,Profesor,Sector privado,Iphone 5S,5.0,7.0,No,31.0,0.0,15.0,0.0,0.0
+104,M,30.0,Casado,Profesor,Institucion publica,Iphone,5.0,4.0,No,30.0,7.0,1.0,,0.0
+212,F,24.0,Casado,Desempleados,Desempleados,Iphone,10.0,7.0,Si,31.0,4.0,1.0,15.0,4.0
+22,,50.0,Casado,Ingeniero,Institucion publica,Iphone 5,10.0,6.0,Si,31.0,4.0,1.0,0.0,0.0
+161,F,35.0,Soltero,Desempleados,Institucion publica,Samsung  A6,5.0,3.0,Si,50.0,50.0,15.0,0.0,1.0
+76,M,50.0,Soltero,Ingeniero de informacion,Institucion publica,Samsung S7+,5.0,3.0,No,30.0,4.0,1.0,1.0,31.0
+192,M,30.0,,adquisitivo,Institucion publica,Iphone ,5.0,3.0,Si,0.0,50.0,0.0,0.0,31.0
+196,F,24.0,Soltero,Ingeniero,Sector privado,Samsung j5,5.0,3.0,Si,50.0,50.0,1.0,0.0,1.0
+144,M,50.0,Casado,Servidor publico,Institucion publica,Iphone ,5.0,4.0,No,,4.0,1.0,1.0,31.0
+104,M,35.0,Soltero,Ingeniero,Sector privado,Iphone,0.0,4.0,Si,50.0,0.0,31.0,0.0,0.0
+235,M,40.0,Soltero,Servidor publico,Selfemployed ,,10.0,4.0,Si,7.0,31.0,1.0,0.0,15.0
+187,F,30.0,Soltero,Servidor publico,Desempleados,Samsung Note 4,5.0,3.0,Si,,7.0,31.0,0.0,0.0
+1,F,30.0,Casado,Profesor,Institucion publica,LG G3,10.0,0.0,Si,4.0,0.0,1.0,0.0,31.0
+105,M,24.0,Soltero,,Desempleados,,5.0,,Si,50.0,31.0,15.0,0.0,30.0
+169,M,35.0,Soltero,Servidor publico,Sector privado,Samsung,10.0,6.0,Si,,31.0,31.0,0.0,4.0
+21,F,35.0,Casado,Psicologo,Institucion publica,Samsung S7+,0.0,3.0,No,31.0,31.0,1.0,0.0,15.0
+19,F,24.0,Soltero,Servidor publico,Sector privado,Iphone 7,5.0,6.0,Si,50.0,1.0,0.0,0.0,15.0
+58,M,24.0,Soltero,Enfermera,Sector privado,Iphone,5.0,6.0,No,50.0,50.0,1.0,0.0,0.0
+193,M,30.0,Soltero,Servidor publico,Sector privado,LG,0.0,7.0,Si,30.0,31.0,15.0,0.0,0.0
+60,F,30.0,Soltero,Ingeniero electronico,Sector privado,Iphone 5S,5.0,,Si,7.0,1.0,0.0,15.0,0.0
+143,F,40.0,Casado,Ingeniero de software,Sector privado,Samsung j,5.0,3.0,No,1.0,50.0,1.0,0.0,0.0
+171,M,24.0,Soltero,Profesor,Desempleados,Samsung,5.0,4.0,No,4.0,4.0,0.0,0.0,1.0
+125,M,45.0,Casado,Servidor publico,Institucion publica,Iphone ,5.0,6.0,Si,1.0,7.0,15.0,30.0,7.0
+95,,30.0,Soltero,adquisitivo,Institucion publica,SAMSUNG S6,0.0,7.0,Si,1.0,7.0,0.0,0.0,1.0
+52,M,30.0,Casado,,Sector privado,Iphone,5.0,3.0,Si,31.0,50.0,1.0,0.0,15.0
+7,F,24.0,Soltero,Ingeniero,Sector privado,Iphone ,5.0,3.0,Si,1.0,1.0,31.0,31.0,31.0
+12,M,35.0,Soltero,,Sector privado,Samsung j,5.0,7.0,Si,7.0,7.0,31.0,15.0,
+120,M,50.0,Soltero,Desempleados,Sector privado,Samsung,5.0,3.0,No,31.0,1.0,1.0,0.0,0.0
+178,F,30.0,Casado,Desempleados,Sector privado,Samsung J5,10.0,3.0,Si,,31.0,1.0,0.0,0.0
+132,,40.0,Soltero,Ingenieria en computacion,Sector privado,Samsung,5.0,4.0,Si,31.0,1.0,15.0,0.0,4.0
+129,F,24.0,Casado,Profesor,Sector privado,Samsung S7+,10.0,3.0,Si,50.0,50.0,0.0,0.0,31.0
+147,M,40.0,Soltero,Ingeniero,Institucion publica,LG G2,5.0,3.0,Si,50.0,50.0,1.0,7.0,15.0
+26,M,30.0,Soltero,Ingeniero electrico,Institucion publica,Reeder,10.0,6.0,Si,7.0,50.0,1.0,1.0,7.0
+189,F,30.0,Soltero,Desempleados,Institucion publica,,5.0,6.0,Si,31.0,7.0,4.0,0.0,15.0
+208,M,30.0,Casado,Quimico,Sector privado,Iphone,5.0,6.0,No,7.0,50.0,1.0,1.0,7.0
+182,F,35.0,Casado,Servidor publico,Institucion publica,,5.0,,No,1.0,4.0,1.0,0.0,0.0
+174,M,30.0,Soltero,Cajero,Desempleados,LG,5.0,4.0,Si,7.0,7.0,0.0,0.0,15.0
+161,F,24.0,Soltero,Profesor,Institucion publica,Iphone,10.0,6.0,Si,1.0,50.0,1.0,0.0,15.0
+117,F,35.0,Soltero,Ingeniero biomedico,Sector privado,LG,5.0,4.0,Si,7.0,7.0,1.0,0.0,0.0
+144,F,45.0,Soltero,Servidor publico,Sector privado,Iphone 6,15.0,3.0,Si,1.0,31.0,1.0,15.0,15.0
+182,M,30.0,Soltero,Ingeniero de software,Institucion publica,Samsung,10.0,6.0,Si,50.0,1.0,15.0,0.0,15.0
+188,F,24.0,Casado,Servidor publico,Sector privado,Iphone 5,5.0,3.0,Si,7.0,31.0,1.0,0.0,35.0
+67,F,30.0,Casado,,Institucion publica,Samsung,0.0,3.0,Si,1.0,30.0,1.0,0.0,0.0
+55,M,30.0,Soltero,Servidor publico,Sector privado,Iphone ,,3.0,Si,,0.0,1.0,15.0,0.0
+105,F,,Casado,Ingenieria en computacion,Sector privado,Galaxy S4,10.0,3.0,Si,30.0,31.0,1.0,0.0,0.0
+104,M,30.0,Casado,AlumNo,Institucion publica,Samsung S3,10.0,6.0,Si,0.0,31.0,0.0,15.0,0.0
+231,F,30.0,Casado,Desempleados,Sector privado,Samsung,10.0,6.0,Si,,7.0,0.0,0.0,0.0
+207,M,,Casado,Ingeniero,Institucion publica,HTC ,10.0,3.0,Si,31.0,,1.0,0.0,15.0
+180,M,30.0,Casado,Servidor publico,Sector privado,,5.0,3.0,No,1.0,1.0,15.0,0.0,15.0
+29,F,35.0,Soltero,Profesor,Sector privado,Samsung,10.0,,No,1.0,31.0,1.0,0.0,1.0
+36,M,24.0,Soltero,Ingeniero,Sector privado,Huawei 6205,5.0,6.0,No,1.0,31.0,1.0,0.0,1.0
+18,M,35.0,Casado,,Institucion publica,Iphone 6+,5.0,6.0,Si,4.0,0.0,1.0,0.0,0.0
+31,,50.0,Casado,Servidor publico,Institucion publica,Samsung,0.0,3.0,No,4.0,7.0,0.0,0.0,7.0
+131,M,50.0,Casado,Analista de informacion,Institucion publica,Samsung Note 3,10.0,3.0,Si,1.0,1.0,1.0,0.0,0.0
+134,F,24.0,Casado,Profesor,Sector privado,,5.0,6.0,No,31.0,7.0,0.0,15.0,7.0
+217,F,35.0,Casado,Profesor,Sector privado,Samsung A5,10.0,3.0,Si,1.0,7.0,1.0,1.0,30.0
+199,F,40.0,Soltero,Servidor publico,Sector privado,Iphone 6,,6.0,Si,30.0,50.0,31.0,15.0,30.0
+147,F,30.0,Soltero,Quimico,Sector privado,Iphone ,5.0,0.0,Si,50.0,50.0,1.0,0.0,7.0
+27,,30.0,Soltero,Servidor publico,Institucion publica,Samsung 7+ Edge,10.0,4.0,Si,1.0,50.0,15.0,0.0,31.0
+221,F,24.0,Soltero,Ingenieria en computacion,Sector privado,Iphone,5.0,3.0,Si,50.0,50.0,31.0,1.0,4.0
+231,F,24.0,Casado,Ingeniero,Sector privado,Casper,5.0,3.0,Si,31.0,31.0,1.0,0.0,0.0
+37,F,,Casado,Profesor,Sector privado,Nokia,5.0,6.0,Si,7.0,50.0,1.0,0.0,31.0
+205,M,24.0,Soltero,Desempleados,Institucion publica,ASUS,15.0,3.0,Si,30.0,7.0,1.0,15.0,7.0
+24,M,35.0,Soltero,Analista de informacion,Sector privado,,10.0,0.0,No,7.0,0.0,1.0,0.0,31.0
+50,F,40.0,Casado,Profesor,Sector privado,Iphone,5.0,3.0,No,7.0,7.0,31.0,0.0,15.0
+6,F,30.0,Soltero,AlumNo,Institucion publica,General Mobile,5.0,3.0,Si,31.0,,1.0,0.0,31.0
+106,M,24.0,Casado,ArtesaNo,Institucion publica,LG,5.0,6.0,Si,50.0,7.0,31.0,0.0,1.0
+236,M,30.0,Soltero,Servidor publico,Sector privado,Samsung,5.0,3.0,Si,31.0,50.0,0.0,0.0,0.0
+236,F,30.0,Soltero,Desempleados,Sector privado,Samsung,10.0,3.0,Si,7.0,1.0,15.0,15.0,15.0
+41,F,50.0,Casado,Profesor,Sector privado,Samsung S3,15.0,3.0,Si,7.0,4.0,15.0,15.0,4.0
+108,M,30.0,Soltero,Profesor,Sector privado,Smartphone,5.0,3.0,Si,50.0,7.0,1.0,15.0,7.0
+126,F,30.0,Soltero,Ingeniero,Institucion publica,Samsung,5.0,0.0,No,0.0,1.0,1.0,15.0,0.0
+120,M,24.0,Soltero,Profesor,Sector privado,Iphone,5.0,3.0,Si,50.0,7.0,0.0,0.0,1.0
+239,F,,Soltero,,Desempleados,VODEFONE SMART 6,5.0,3.0,Si,31.0,31.0,31.0,0.0,7.0
+35,M,24.0,Soltero,Ingeniero,Sector privado,Samsung,5.0,0.0,Si,50.0,50.0,15.0,0.0,15.0
+153,F,30.0,Casado,Ingeniero de software,Sector privado,,5.0,6.0,No,7.0,30.0,0.0,1.0,35.0
+102,M,50.0,Casado,Profesor,Sector privado,Samsung,10.0,3.0,No,31.0,31.0,1.0,0.0,0.0
+142,F,50.0,Soltero,Ingeniero,Institucion publica,Samsung,5.0,6.0,Si,0.0,7.0,1.0,15.0,0.0
+244,M,45.0,Soltero,,Desempleados,Samsung,5.0,6.0,Si,0.0,7.0,0.0,0.0,1.0
+165,F,24.0,Casado,Desempleados,Sector privado,Samsung,10.0,,No,50.0,0.0,15.0,0.0,0.0
+163,M,40.0,Casado,Servidor publico,Sector privado,Iphone,5.0,6.0,No,,1.0,1.0,1.0,7.0
+61,M,50.0,Soltero,Profesor,Institucion publica,General mobile,5.0,6.0,No,7.0,4.0,1.0,0.0,7.0
+53,F,30.0,Soltero,Ingeniero de informacion,Institucion publica,LeNovo A7010,5.0,3.0,Si,,,31.0,0.0,30.0
+24,F,30.0,,Servidor publico,Sector privado,Samsung,5.0,3.0,No,1.0,31.0,1.0,15.0,7.0
+143,M,45.0,Casado,Desempleados,Sector privado,LeNovo S1 Lite,5.0,5.0,Si,50.0,31.0,0.0,0.0,0.0
+192,F,40.0,Casado,Desempleados,Institucion publica,Samsung Note 4,10.0,3.0,Si,7.0,0.0,1.0,,1.0
+84,M,35.0,Soltero,Servidor publico,Sector privado,VODEFONE SMART 6,5.0,3.0,Si,,50.0,1.0,0.0,15.0
+94,F,30.0,Soltero,,Desempleados,0,10.0,3.0,Si,4.0,1.0,30.0,0.0,31.0
+165,M,30.0,Casado,Servidor publico,Institucion publica,ASUS,10.0,4.0,Si,7.0,4.0,0.0,,1.0
+184,M,30.0,Casado,Ingenieria en computacion,Sector privado,Iphone 6+,5.0,3.0,Si,,50.0,0.0,0.0,0.0
+9,,30.0,Casado,Profesor,Sector privado,Iphone ,0.0,3.0,No,4.0,7.0,15.0,0.0,15.0
+24,F,35.0,Soltero,Desempleados,Sector privado,Genaral Mobile,5.0,7.0,Si,1.0,1.0,1.0,1.0,7.0
+228,F,30.0,Casado,Ingeniero,Sector privado,Iphone ,5.0,3.0,No,0.0,31.0,1.0,0.0,7.0
+193,M,40.0,Casado,Profesor,Institucion publica,Iphone 6,5.0,3.0,Si,31.0,1.0,0.0,0.0,4.0
+81,F,24.0,Casado,Ingeniero,Sector privado,LeNovo K5 Vibe,10.0,3.0,Si,31.0,31.0,31.0,0.0,0.0
+69,F,30.0,Casado,Ingeniero,Institucion publica,,5.0,3.0,Si,50.0,31.0,1.0,15.0,0.0
+237,M,30.0,Casado,Ingeniero de software,Sector privado,LeNovo K5 Vibe,5.0,3.0,Si,7.0,30.0,1.0,1.0,4.0
+58,F,30.0,Soltero,Ingeniero,Institucion publica,Iphone 6S+,5.0,6.0,Si,0.0,1.0,15.0,15.0,31.0
+229,M,24.0,Casado,Desempleados,Institucion publica,LG G3,5.0,6.0,Si,30.0,7.0,0.0,0.0,0.0
+23,F,30.0,Soltero,Profesor,Desempleados,Iphone 7,6.0,7.0,Si,31.0,0.0,1.0,0.0,31.0
+84,F,30.0,Casado,Servidor publico,Institucion publica,Samsung,5.0,3.0,Si,1.0,50.0,1.0,0.0,15.0
+248,F,45.0,Casado,Profesor,Institucion publica,Samsung,,3.0,Si,31.0,50.0,1.0,0.0,7.0
+230,M,35.0,Casado,Desempleados,Institucion publica,Iphone  6,5.0,3.0,Si,31.0,50.0,31.0,0.0,31.0
+195,M,30.0,Soltero,Servidor publico,Sector privado,Smartphone,10.0,7.0,Si,1.0,7.0,0.0,0.0,1.0
+28,F,30.0,Casado,Profesor,Sector privado,Casper,5.0,4.0,Si,1.0,30.0,1.0,0.0,0.0
+118,M,35.0,Soltero,,Sector privado,Iphone 6S+,10.0,3.0,Si,,0.0,1.0,,31.0
+4,M,30.0,Casado,adquisitivo,Sector privado,Iphone,15.0,6.0,Si,0.0,0.0,0.0,0.0,0.0
+188,M,35.0,Soltero,Profesor,Sector privado,Samsung Note 3,5.0,7.0,No,,31.0,1.0,0.0,1.0
+51,M,30.0,Soltero,Profesor,Desempleados,LeNovo A7010,5.0,,No,30.0,7.0,1.0,0.0,35.0
+141,M,24.0,Casado,AlumNo,Sector privado,Iphone 6,5.0,3.0,Si,31.0,31.0,15.0,15.0,0.0
+165,F,30.0,Soltero,,Sector privado,Samsung Note 3,10.0,3.0,Si,1.0,0.0,15.0,0.0,7.0
+228,M,35.0,Soltero,,Desempleados,Samsung,10.0,6.0,Si,31.0,31.0,1.0,15.0,0.0
+130,F,30.0,Soltero,,Sector privado,Iphone,0.0,6.0,No,0.0,4.0,0.0,0.0,1.0
+191,M,30.0,Casado,Ingeniero de informacion,Sector privado,Iphone 6+,10.0,6.0,Si,1.0,,1.0,15.0,15.0
+108,F,,Casado,Ingeniero,Institucion publica,Iphone 6,10.0,6.0,No,30.0,31.0,1.0,15.0,31.0
+83,M,50.0,Soltero,Ingeniero,Sector privado,Iphone,5.0,4.0,Si,31.0,50.0,0.0,15.0,4.0
+167,F,35.0,Casado,Ingenieria en computacion,Institucion publica,Iphone 7,10.0,4.0,No,7.0,0.0,31.0,0.0,31.0
+248,M,35.0,Casado,Servidor publico,Institucion publica,Iphone  5S,5.0,3.0,Si,1.0,4.0,0.0,0.0,1.0
+223,M,30.0,Casado,Servidor publico,Institucion publica,Iphone 6,5.0,,Si,1.0,7.0,0.0,0.0,15.0
+169,M,40.0,Casado,Ingeniero de informacion,Institucion publica,,5.0,0.0,Si,0.0,7.0,1.0,0.0,0.0
+38,F,35.0,Casado,Servidor publico,Institucion publica,Samsung,10.0,6.0,No,31.0,4.0,31.0,0.0,31.0
+13,F,40.0,Soltero,Ingeniero,Institucion publica,Iphone ,10.0,4.0,Si,7.0,,1.0,0.0,7.0
+219,M,45.0,Soltero,Profesor,Institucion publica,Asus ZenFone,15.0,0.0,No,31.0,7.0,31.0,0.0,1.0
+22,M,30.0,Soltero,Profesor,Sector privado,Samsung S6 EDGE,5.0,6.0,No,31.0,4.0,1.0,0.0,15.0
+142,F,24.0,Soltero,Desempleados,Sector privado,,5.0,7.0,No,0.0,1.0,1.0,0.0,31.0
+197,F,24.0,Casado,Ingenieria en computacion,Institucion publica,0,5.0,3.0,No,7.0,,0.0,15.0,0.0
+87,,30.0,Soltero,Desempleados,Desempleados,Samsung S7,10.0,7.0,No,7.0,50.0,1.0,0.0,0.0
+8,F,50.0,Soltero,Ingenieria en computacion,Sector privado,Samsung Note 2,5.0,0.0,Si,0.0,4.0,1.0,15.0,7.0
+214,M,35.0,Casado,Profesor,Sector privado,Samsung  A6,5.0,6.0,Si,0.0,31.0,0.0,0.0,0.0
+157,M,30.0,Soltero,,Selfemployed ,,5.0,3.0,Si,0.0,31.0,1.0,,0.0
+193,F,30.0,Casado,,Institucion publica,Iphone ,,3.0,No,30.0,,1.0,0.0,1.0
+8,M,30.0,Soltero,Servidor publico,Sector privado,Iphone ,5.0,3.0,No,0.0,50.0,31.0,,0.0
+147,M,24.0,Soltero,Servidor publico,Sector privado,ASUS,5.0,3.0,No,31.0,50.0,15.0,31.0,31.0
+139,M,30.0,Casado,Ingeniero de informacion,Institucion publica,Iphone  5S,0.0,6.0,No,7.0,0.0,0.0,0.0,1.0
+140,M,30.0,Casado,Ingeniero de informacion,Sector privado,Iphone ,5.0,7.0,Si,30.0,50.0,0.0,0.0,0.0
+238,M,30.0,Soltero,Ingeniero de software,Sector privado,Samsung,5.0,0.0,No,7.0,1.0,1.0,1.0,31.0
+32,F,40.0,Casado,,Institucion publica,Iphone,5.0,0.0,No,,4.0,1.0,0.0,7.0
+150,M,45.0,Soltero,Desempleados,Desempleados,Samsung,5.0,5.0,No,31.0,7.0,1.0,0.0,31.0
+231,F,30.0,Casado,AlumNo,Sector privado,Samsung S6,0.0,0.0,No,4.0,,1.0,0.0,30.0
+129,F,35.0,Casado,Profesor,Institucion publica,SONY,10.0,0.0,Si,31.0,31.0,0.0,0.0,1.0
+120,F,24.0,Soltero,Ingeniero biomedico,Institucion publica,LG V10,10.0,0.0,No,7.0,7.0,1.0,0.0,15.0
+231,M,30.0,Soltero,entrenador,Sector privado,Iphone 5S,15.0,6.0,Si,30.0,7.0,0.0,0.0,0.0
+156,M,50.0,Soltero,Ingeniero,Sector privado,,5.0,3.0,No,31.0,50.0,1.0,0.0,35.0
+18,F,35.0,Casado,Servidor publico,Institucion publica,Smartphone,10.0,3.0,Si,7.0,50.0,1.0,0.0,0.0
+159,M,40.0,Soltero,Matematico,Sector privado,Samsung,0.0,4.0,Si,7.0,4.0,15.0,1.0,15.0
+212,F,35.0,Casado,Ingenieria en computacion,Sector privado,Samsung Note 4,5.0,0.0,No,31.0,30.0,1.0,0.0,31.0
+148,F,40.0,Casado,Servidor publico,Sector privado,Samsung s3,15.0,6.0,Si,31.0,,0.0,0.0,0.0
+247,M,35.0,Soltero,,Institucion publica,Iphone 6,10.0,3.0,Si,50.0,4.0,1.0,0.0,31.0
+60,F,35.0,Soltero,Servidor publico,Sector privado,Iphone 6S,0.0,3.0,Si,31.0,50.0,0.0,0.0,7.0
+50,F,24.0,Casado,business intelligence developer,Institucion publica,Iphone ,5.0,6.0,Si,1.0,0.0,1.0,0.0,
+215,F,30.0,Soltero,Ingenieria en computacion,Institucion publica,Iphone ,5.0,6.0,No,30.0,7.0,1.0,0.0,0.0
+235,F,35.0,Soltero,Profesor,Sector privado,VODEFONE SMART 6,5.0,0.0,Si,1.0,0.0,0.0,0.0,30.0
+109,F,24.0,Soltero,ArtesaNo,Sector privado,Iphone ,5.0,3.0,No,31.0,1.0,1.0,1.0,4.0
+145,F,45.0,Casado,Servidor publico,Institucion publica,Huawei 6205,5.0,3.0,No,0.0,50.0,1.0,15.0,0.0
+18,M,35.0,Soltero,Ingeniero de informacion,Sector privado,LG,0.0,4.0,Si,0.0,50.0,1.0,0.0,
+65,F,40.0,Casado,Servidor publico,Institucion publica,,5.0,,Si,50.0,31.0,1.0,0.0,1.0
+6,M,24.0,Casado,,Sector privado,Iphone ,,7.0,No,1.0,1.0,,1.0,7.0
+227,F,,Casado,,Institucion publica,Samsung j,5.0,,Si,1.0,7.0,1.0,0.0,31.0
+144,M,30.0,Casado,Psicologo,Institucion publica,Sony,10.0,6.0,No,0.0,7.0,15.0,15.0,7.0
+18,M,30.0,Casado,,Institucion publica,,5.0,4.0,No,,4.0,15.0,0.0,0.0
+181,M,30.0,Soltero,Ingeniero,Sector privado,Iphone ,10.0,6.0,No,30.0,0.0,1.0,0.0,31.0
+247,M,50.0,Casado,Desempleados,Selfemployed ,,5.0,6.0,Si,1.0,7.0,1.0,0.0,31.0
+81,M,45.0,Soltero,AlumNo,Sector privado,Iphone,10.0,0.0,Si,1.0,0.0,0.0,15.0,30.0
+213,M,30.0,Casado,AlumNo,Institucion publica,Galaxy S4,10.0,3.0,No,0.0,7.0,1.0,0.0,0.0
+61,M,30.0,Casado,Desempleados,Sector privado,Samsung  S3,5.0,0.0,Si,7.0,,1.0,0.0,15.0
+23,M,30.0,Soltero,Ingeniero,Institucion publica,Samsung,5.0,3.0,Si,1.0,,1.0,0.0,0.0
+183,F,30.0,Soltero,Ingeniero biomedico,Sector privado,Samsung,15.0,4.0,Si,31.0,7.0,1.0,0.0,0.0
+116,F,45.0,Soltero,Profesor,Sector privado,0,5.0,5.0,Si,31.0,1.0,1.0,0.0,31.0
+10,M,40.0,Casado,Ingenieria en computacion,Institucion publica,General mobile,10.0,3.0,Si,31.0,7.0,1.0,0.0,7.0
+130,M,50.0,Casado,,Desempleados,SAMSUNG A5,15.0,3.0,No,,4.0,1.0,0.0,31.0
+125,M,40.0,Casado,Ingenieria en computacion,Sector privado,Iphone ,10.0,6.0,No,4.0,7.0,1.0,0.0,7.0
+95,M,50.0,Soltero,Profesor,Sector privado,Iphone,5.0,3.0,Si,31.0,30.0,1.0,0.0,4.0
+73,F,45.0,,Profesor,Institucion publica,Asus,5.0,3.0,Si,30.0,0.0,0.0,15.0,0.0
+1,F,40.0,Soltero,Profesor,Institucion publica,Iphone ,5.0,0.0,Si,31.0,30.0,1.0,15.0,0.0
+10,,45.0,Soltero,Ingeniero,Sector privado,General mobile,10.0,4.0,No,31.0,7.0,1.0,1.0,35.0
+19,F,40.0,Casado,Ingeniero de informacion,Sector privado,Sony,5.0,3.0,Si,31.0,7.0,31.0,0.0,31.0
+94,M,45.0,Casado,Profesor,Institucion publica,LG,5.0,3.0,Si,,50.0,1.0,15.0,15.0
+197,M,24.0,Soltero,,Sector privado,Iphone ,5.0,3.0,Si,1.0,1.0,1.0,15.0,15.0
+174,,40.0,Soltero,AlumNo,Desempleados,Iphone ,5.0,6.0,Si,1.0,4.0,1.0,0.0,4.0
+8,F,50.0,Soltero,Desempleados,Institucion publica,Iphone 5S,5.0,0.0,No,0.0,7.0,0.0,1.0,35.0
+227,F,30.0,Soltero,Analista de informacion,Sector privado,Samsung,0.0,3.0,No,7.0,50.0,0.0,0.0,1.0
+99,F,50.0,Soltero,,Sector privado,,5.0,6.0,No,,30.0,0.0,0.0,30.0
+156,F,45.0,Casado,AlumNo,Sector privado,SAMSUNG A5,10.0,3.0,No,7.0,50.0,1.0,0.0,31.0
+134,M,35.0,Casado,Trabajador,Institucion publica,Iphone 7,5.0,7.0,Si,1.0,50.0,31.0,0.0,0.0
+31,F,30.0,Casado,Guia turistica,Sector privado,Xperia,0.0,3.0,No,50.0,7.0,0.0,0.0,0.0
+76,,50.0,Soltero,Profesor,Institucion publica,HTC,10.0,,No,7.0,,31.0,0.0,15.0
+109,M,50.0,Soltero,Desempleados,Institucion publica,Iphone,0.0,4.0,Si,7.0,7.0,1.0,31.0,7.0
+7,F,45.0,Soltero,Profesor,Sector privado,Samsung S3,10.0,3.0,No,4.0,4.0,0.0,0.0,0.0
+228,F,30.0,Casado,Ingeniero de software,Sector privado,Samsung,10.0,0.0,Si,0.0,30.0,0.0,0.0,7.0
+59,M,45.0,Casado,entrenador,Institucion publica,SONY Z2,5.0,4.0,No,1.0,31.0,0.0,1.0,30.0
+178,M,30.0,Casado,Servidor publico,Institucion publica,Iphone 7,5.0,3.0,Si,31.0,7.0,31.0,15.0,7.0
+159,F,50.0,Casado,AlumNo,Sector privado,Smartphone,5.0,,Si,,50.0,0.0,15.0,15.0
+224,M,30.0,Soltero,ArtesaNo,Sector privado,Samsung,5.0,3.0,Si,1.0,31.0,1.0,0.0,31.0
+249,,30.0,Soltero,Profesor,Desempleados,Xiaomi mi 5,5.0,0.0,No,50.0,1.0,0.0,0.0,0.0
+42,F,40.0,Soltero,Servidor publico,Institucion publica,Iphone ,10.0,4.0,Si,,31.0,15.0,0.0,0.0
+194,M,40.0,Soltero,Desempleados,Sector privado,LG G3,5.0,0.0,No,7.0,7.0,1.0,0.0,0.0
+8,M,40.0,Soltero,,Sector privado,,5.0,3.0,Si,1.0,7.0,1.0,15.0,4.0
+68,F,30.0,Soltero,Profesor,Sector privado,Iphone,5.0,0.0,Si,1.0,31.0,15.0,0.0,0.0
+67,M,30.0,Casado,Gerente,Institucion publica,Iphone 5,0.0,6.0,Si,7.0,,31.0,15.0,15.0
+139,F,30.0,Soltero,Ingenieria en computacion,Institucion publica,Iphone 6,5.0,6.0,Si,1.0,7.0,1.0,0.0,7.0
+143,,30.0,Casado,Ingeniero,Institucion publica,,5.0,3.0,No,31.0,,1.0,0.0,31.0
+43,M,35.0,Casado,,Institucion publica,Asus,0.0,4.0,Si,1.0,,0.0,15.0,15.0
+185,F,24.0,,Ingeniero,,Samsung S3,10.0,6.0,No,1.0,31.0,1.0,0.0,31.0
+214,F,45.0,Casado,Ingeniero de informacion,Institucion publica,Smartphone,5.0,3.0,Si,31.0,4.0,0.0,0.0,30.0
+173,M,35.0,Casado,,Institucion publica,Samsung,15.0,4.0,No,50.0,0.0,0.0,0.0,1.0
+215,F,45.0,Soltero,Servidor publico,Institucion publica,Iphone 5S,5.0,4.0,Si,50.0,31.0,1.0,0.0,15.0
+85,M,45.0,Soltero,,Desempleados,General mobile,10.0,0.0,No,,50.0,15.0,0.0,7.0
+204,,24.0,Casado,Analista de informacion,Desempleados,LeNovo S1 Lite,10.0,3.0,No,0.0,7.0,1.0,0.0,0.0
+106,M,45.0,Soltero,Profesor,Institucion publica,Samsung Note 3,5.0,7.0,Si,50.0,50.0,0.0,0.0,0.0
+137,M,35.0,Casado,Profesor,Institucion publica,Iphone 5,5.0,6.0,No,31.0,0.0,0.0,15.0,1.0
+146,M,30.0,,Desempleados,Sector privado,Samsung S6 EDGE,10.0,3.0,Si,30.0,4.0,31.0,0.0,1.0
+215,M,45.0,Casado,,Sector privado,Nokia,15.0,4.0,No,31.0,,1.0,0.0,15.0
+36,,35.0,Soltero,Retirado,Institucion publica,Samsung,5.0,3.0,Si,7.0,31.0,0.0,0.0,0.0
+174,M,24.0,Casado,Ingenieria en computacion,Sector privado,Iphone 5S,5.0,3.0,Si,31.0,50.0,0.0,0.0,0.0
+202,M,30.0,Casado,Ingenieria en computacion,Sector privado,Iphone 5S,10.0,3.0,Si,4.0,50.0,1.0,0.0,0.0
+144,F,24.0,Soltero,Ingeniero,Sector privado,Iphone 5,0.0,3.0,No,31.0,30.0,1.0,1.0,0.0
+127,M,30.0,Casado,AlumNo,Desempleados,Iphone ,10.0,3.0,No,,7.0,15.0,0.0,31.0
+32,M,30.0,,Profesor,Sector privado,LG G3,15.0,3.0,No,50.0,30.0,1.0,0.0,0.0
+220,M,40.0,Soltero,Retirado,Institucion publica,Iphone 5S,5.0,3.0,Si,0.0,31.0,1.0,0.0,1.0
+5,M,40.0,Casado,AlumNo,Selfemployed ,Smartphone,15.0,6.0,Si,7.0,7.0,31.0,0.0,15.0
+247,F,35.0,Soltero,Servidor publico,Institucion publica,Samsung S6,5.0,3.0,Si,7.0,1.0,0.0,0.0,31.0
+74,F,50.0,Soltero,Ingeniero de informacion,Sector privado,Iphone 5S,0.0,5.0,Si,30.0,1.0,15.0,15.0,0.0
+188,F,24.0,Soltero,,Institucion publica,Iphone ,5.0,3.0,Si,31.0,0.0,31.0,1.0,31.0
+105,F,30.0,Soltero,Ingeniero de informacion,Sector privado,Genaral Mobile,5.0,6.0,Si,4.0,30.0,1.0,15.0,15.0
+201,F,35.0,Soltero,business intelligence developer,Sector privado,Samsung Note 2,10.0,6.0,Si,0.0,7.0,1.0,0.0,0.0
+170,,35.0,Soltero,adquisitivo,Sector privado,Samsung,5.0,,No,0.0,7.0,1.0,0.0,0.0
+107,M,45.0,Casado,Guia turistica,Sector privado,Samsung,5.0,3.0,Si,7.0,7.0,0.0,15.0,31.0
+18,F,30.0,Soltero,,Sector privado,Samsung,10.0,,Si,50.0,0.0,15.0,0.0,0.0
+116,F,30.0,Casado,Profesor,Institucion publica,Samsung j5,10.0,6.0,No,31.0,7.0,1.0,15.0,4.0
+79,M,30.0,Casado,Profesor,,Iphone 6,5.0,6.0,Si,1.0,31.0,1.0,0.0,1.0
+238,F,50.0,Casado,adquisitivo,Institucion publica,Samsung Note 3,5.0,6.0,Si,7.0,7.0,0.0,0.0,31.0
+239,M,30.0,Casado,Enfermera,Desempleados,Nokia E5,5.0,3.0,No,7.0,50.0,1.0,0.0,0.0
+219,F,45.0,Casado,Ingeniero electronico,Sector privado,Samsung A5,15.0,3.0,Si,,31.0,1.0,0.0,7.0
+213,M,35.0,Soltero,Ingenieria en computacion,Selfemployed ,Iphone 5S,5.0,3.0,Si,7.0,31.0,31.0,0.0,1.0
+209,M,30.0,Soltero,Ingenieria en computacion,Institucion publica,Sony,5.0,3.0,Si,0.0,50.0,1.0,0.0,4.0
+222,M,35.0,Soltero,Profesor,Institucion publica,Samsung S7+,5.0,3.0,Si,31.0,1.0,0.0,0.0,0.0
+241,M,24.0,Casado,Ingeniero,Desempleados,,5.0,3.0,Si,31.0,4.0,15.0,0.0,
+83,F,24.0,Soltero,,Sector privado,Iphone,0.0,3.0,Si,1.0,50.0,1.0,15.0,0.0
+202,M,35.0,Casado,AlumNo,Sector privado,Samsung Note 3,10.0,3.0,No,7.0,31.0,0.0,0.0,30.0
+16,M,30.0,Casado,ArtesaNo,Institucion publica,Iphone S5,5.0,5.0,No,4.0,1.0,1.0,0.0,1.0
+108,M,30.0,Casado,,Institucion publica,Samsung A5,5.0,7.0,Si,7.0,31.0,31.0,0.0,7.0
+165,M,24.0,Soltero,Retirado,Desempleados,,15.0,0.0,No,7.0,50.0,1.0,0.0,30.0
+114,F,30.0,Soltero,Ingeniero electrico,Sector privado,Casper,5.0,,Si,7.0,1.0,0.0,0.0,0.0
+142,M,30.0,Soltero,,Sector privado,Samsung j,5.0,6.0,No,7.0,1.0,1.0,0.0,0.0
+242,M,40.0,Casado,Interprete,Institucion publica,Iphone,10.0,3.0,No,0.0,0.0,1.0,15.0,31.0
+48,M,30.0,Soltero,AlumNo,Sector privado,Samsung,0.0,3.0,Si,31.0,31.0,1.0,15.0,4.0
+184,M,30.0,,Ingeniero de software,Sector privado,Samsung s3,10.0,0.0,No,7.0,50.0,1.0,0.0,7.0
+24,F,30.0,Soltero,Ingeniero electronico,Institucion publica,Iphone 5S,5.0,3.0,Si,30.0,7.0,0.0,0.0,7.0
+79,M,,Casado,Medico,Sector privado,Samsung Note 3,5.0,4.0,No,7.0,50.0,15.0,0.0,15.0
+215,M,35.0,Casado,Trabajador,Sector privado,Iphone,5.0,3.0,Si,1.0,,1.0,0.0,0.0
+164,M,35.0,Casado,AlumNo,Sector privado,Iphone,0.0,4.0,Si,0.0,0.0,31.0,0.0,0.0
+239,M,40.0,Soltero,entrenador,Institucion publica,LeNovo S1 Lite,0.0,0.0,Si,7.0,,1.0,0.0,35.0
+111,M,30.0,Casado,Ingeniero,Institucion publica,Iphone 6,5.0,,Si,7.0,,1.0,0.0,31.0
+79,M,40.0,Casado,Ingeniero electronico,Institucion publica,Samsung,10.0,3.0,Si,7.0,1.0,1.0,0.0,15.0
+227,F,24.0,Casado,Profesor,Sector privado,Iphone ,5.0,4.0,Si,7.0,30.0,0.0,0.0,15.0
+49,M,35.0,Soltero,Desempleados,Sector privado,,10.0,3.0,Si,0.0,4.0,0.0,0.0,1.0
+160,M,30.0,Casado,Profesor,Institucion publica,Iphone ,5.0,3.0,Si,4.0,31.0,1.0,0.0,4.0
+147,F,35.0,Casado,Ingeniero de maquinaria,Institucion publica,Iphone 5S,10.0,3.0,No,1.0,50.0,1.0,0.0,31.0
+249,F,30.0,Casado,Ingeniero biomedico,Sector privado,Iphone,5.0,0.0,Si,1.0,0.0,0.0,0.0,4.0
+45,M,50.0,,Ingeniero,Sector privado,Samsung  A6,5.0,3.0,Si,4.0,1.0,0.0,15.0,1.0
+118,M,35.0,Soltero,Desempleados,Sector privado,LG,5.0,0.0,Si,31.0,7.0,0.0,0.0,30.0
+58,M,35.0,Soltero,Servidor publico,Sector privado,LG G2,15.0,3.0,No,31.0,50.0,0.0,0.0,31.0
+64,M,30.0,Soltero,Servidor publico,Selfemployed ,Samsung,5.0,6.0,No,4.0,1.0,31.0,0.0,0.0
+229,M,35.0,Soltero,Servidor publico,Sector privado,Iphone ,10.0,4.0,Si,30.0,1.0,15.0,15.0,0.0
+87,F,30.0,Casado,Ingeniero,Sector privado,LG V10,5.0,3.0,Si,4.0,31.0,0.0,0.0,35.0
+2,F,30.0,Soltero,,Sector privado,LG G3,0.0,7.0,Si,1.0,0.0,1.0,0.0,1.0
+100,,35.0,Casado,Ingeniero,Institucion publica,Asus,0.0,3.0,Si,31.0,7.0,15.0,0.0,7.0
+44,F,30.0,Soltero,,Desempleados,Samsung A5,5.0,3.0,No,,,1.0,0.0,15.0
+145,F,30.0,Soltero,Profesor,Sector privado,,5.0,0.0,No,7.0,0.0,15.0,0.0,15.0
+119,M,30.0,Soltero,Director,Institucion publica,Smartphone,0.0,,Si,30.0,1.0,1.0,1.0,7.0
+172,F,30.0,Casado,Ingenieria en computacion,Sector privado,LG,5.0,3.0,No,30.0,,4.0,0.0,31.0
+2,F,40.0,Casado,Profesor,Sector privado,Samsung  S3,5.0,3.0,Si,31.0,,0.0,0.0,15.0
+64,M,40.0,Soltero,Desempleados,Institucion publica,Iphone 5,10.0,3.0,No,,31.0,1.0,0.0,1.0
+130,F,,Casado,Enfermera,Sector privado,Samsung S6 EDGE,5.0,3.0,Si,50.0,7.0,31.0,0.0,0.0
+110,F,35.0,Soltero,Servidor publico,Sector privado,Iphone 5,10.0,0.0,No,0.0,1.0,1.0,0.0,31.0
+49,M,30.0,Soltero,,Desempleados,ASUS,5.0,6.0,Si,4.0,30.0,31.0,0.0,15.0
+62,M,35.0,Casado,Servidor publico,Sector privado,Iphone 5S,5.0,3.0,No,4.0,50.0,1.0,0.0,0.0
+1,M,30.0,Soltero,adquisitivo,Sector privado,Smartphone,5.0,4.0,No,0.0,31.0,0.0,0.0,4.0
+80,F,30.0,Casado,,Institucion publica,Asus,5.0,,Si,50.0,0.0,1.0,0.0,30.0
+79,F,24.0,Casado,,Sector privado,SONY XPER?A 75,5.0,3.0,Si,31.0,31.0,1.0,0.0,0.0
+31,M,24.0,Casado,Ingenieria en computacion,Sector privado,Smartphone,10.0,6.0,No,31.0,1.0,0.0,15.0,7.0
+58,M,24.0,Soltero,AlumNo,Sector privado,LG V10,5.0,,Si,30.0,50.0,0.0,0.0,31.0
+10,F,35.0,Casado,Servidor publico,Sector privado,Iphone 5,5.0,4.0,No,7.0,7.0,0.0,0.0,15.0
+10,M,24.0,Casado,Retirado,Institucion publica,,,0.0,Si,31.0,,0.0,0.0,1.0
+71,M,50.0,Casado,Servidor publico,Institucion publica,Casper,5.0,,Si,7.0,4.0,1.0,0.0,0.0
+6,M,24.0,Casado,Servidor publico,Sector privado,Nokia,10.0,3.0,Si,,30.0,1.0,0.0,4.0
+36,F,50.0,Casado,Analista de informacion,Institucion publica,Iphone,10.0,6.0,No,0.0,7.0,1.0,1.0,0.0
+101,F,40.0,Soltero,,Sector privado,ASUS,10.0,6.0,Si,4.0,7.0,1.0,0.0,7.0
+3,M,35.0,Soltero,AlumNo,Institucion publica,,5.0,3.0,Si,7.0,1.0,31.0,0.0,15.0
+224,F,24.0,Casado,,Sector privado,Samsung S3,10.0,7.0,Si,0.0,,31.0,0.0,1.0
+19,M,50.0,Casado,Ingeniero electronico,,Samsung  S3,5.0,6.0,No,31.0,30.0,1.0,0.0,4.0
+196,M,35.0,Soltero,Ingeniero,Sector privado,Iphone ,5.0,6.0,No,31.0,0.0,1.0,0.0,0.0
+226,M,45.0,Casado,Ingeniero de software,Sector privado,Iphone ,5.0,0.0,Si,1.0,4.0,1.0,0.0,0.0
+235,M,35.0,Casado,AlumNo,Sector privado,L G,5.0,,Si,0.0,50.0,0.0,1.0,31.0
+118,F,30.0,Soltero,Desempleados,Institucion publica,Samsung  S3,5.0,0.0,Si,,4.0,31.0,0.0,31.0
+113,M,50.0,Soltero,Servidor publico,Sector privado,LG,5.0,5.0,Si,31.0,1.0,1.0,0.0,15.0
+16,,24.0,Casado,AlumNo,Institucion publica,Samsung,5.0,3.0,Si,7.0,0.0,15.0,1.0,31.0
+106,M,45.0,Casado,Servidor publico,Selfemployed ,Samsung S7,,3.0,No,0.0,1.0,1.0,1.0,0.0
+83,F,30.0,Casado,Ingeniero,Institucion publica,Samsung,5.0,3.0,Si,50.0,,,0.0,0.0
+61,M,35.0,Casado,,Sector privado,Iphone ,5.0,0.0,Si,,0.0,1.0,0.0,15.0
+199,F,50.0,Casado,Ingenieria en computacion,Sector privado,Iphone  5S,10.0,3.0,Si,7.0,1.0,15.0,0.0,15.0
+159,M,45.0,Soltero,Profesor,Desempleados,Smartphone,0.0,3.0,No,7.0,1.0,0.0,0.0,0.0
+129,M,24.0,Casado,Ingenieria en computacion,Institucion publica,Iphone 5,5.0,3.0,Si,31.0,4.0,0.0,1.0,
+170,M,40.0,Soltero,Desempleados,Sector privado,Samsung Note 5,10.0,3.0,Si,1.0,31.0,1.0,15.0,15.0
+128,M,35.0,Soltero,entrenador,Sector privado,0,5.0,3.0,No,0.0,50.0,0.0,0.0,15.0
+124,F,30.0,Casado,Analista de informacion,Desempleados,LG,10.0,3.0,Si,7.0,31.0,31.0,0.0,4.0
+129,F,35.0,Casado,Ingeniero de software,Sector privado,LeNovo A7010,10.0,7.0,No,1.0,1.0,1.0,0.0,0.0
+208,M,40.0,Casado,ArtesaNo,Institucion publica,Iphone ,15.0,3.0,No,,1.0,1.0,15.0,0.0
+29,M,30.0,Casado,Servidor publico,Sector privado,Nokia E5,10.0,3.0,Si,31.0,7.0,15.0,0.0,31.0
+229,M,30.0,Soltero,,Sector privado,Samsung,5.0,7.0,No,7.0,50.0,0.0,0.0,
+140,M,30.0,Casado,Enfermera,Institucion publica,General mobile,10.0,0.0,No,31.0,50.0,15.0,0.0,35.0
+168,F,24.0,Soltero,AlumNo,Sector privado,,5.0,6.0,No,31.0,31.0,1.0,0.0,0.0
+87,M,30.0,Casado,,Desempleados,SONY XPER?A 75,5.0,3.0,Si,31.0,1.0,1.0,0.0,0.0
+25,M,35.0,Casado,AlumNo,Sector privado,Samsung,10.0,3.0,Si,0.0,7.0,1.0,15.0,4.0
+23,M,30.0,Casado,,Institucion publica,Iphone ,5.0,3.0,No,31.0,0.0,0.0,15.0,31.0
+204,F,30.0,Soltero,Desempleados,Sector privado,Iphone 5S,10.0,6.0,Si,1.0,7.0,15.0,0.0,7.0
+71,M,50.0,Casado,Profesor,Sector privado,Iphone 6s,,6.0,Si,,4.0,0.0,0.0,7.0
+49,F,24.0,Casado,Ingeniero de informacion,Sector privado,Iphone 6,5.0,3.0,Si,1.0,31.0,15.0,0.0,7.0
+77,M,35.0,Casado,AlumNo,Institucion publica,Samsung S7,5.0,3.0,No,,7.0,0.0,0.0,15.0
+240,M,30.0,Casado,Desempleados,Desempleados,Iphone ,10.0,6.0,Si,1.0,0.0,1.0,0.0,31.0
+196,F,30.0,Casado,AlumNo,Institucion publica,Samsung,5.0,7.0,No,,1.0,31.0,0.0,15.0
+106,F,50.0,Casado,Desempleados,Institucion publica,Iphone 6S,5.0,7.0,Si,7.0,7.0,15.0,0.0,0.0
+48,F,30.0,,Ingeniero de maquinaria,Institucion publica,Samsung A5,0.0,3.0,No,0.0,31.0,1.0,0.0,30.0
+177,F,30.0,Casado,Ingenieria en computacion,Institucion publica,Samsung,5.0,3.0,Si,31.0,31.0,0.0,1.0,0.0
+26,M,30.0,Soltero,AlumNo,Institucion publica,Android,5.0,3.0,Si,1.0,0.0,1.0,15.0,31.0
+59,M,50.0,Casado,Ingenieria en computacion,Sector privado,Iphone ,5.0,3.0,Si,0.0,0.0,0.0,0.0,0.0
+132,F,30.0,Soltero,Ingeniero de informacion,Institucion publica,Iphone ,15.0,6.0,Si,1.0,0.0,30.0,0.0,0.0
+230,M,50.0,Soltero,Ingenieria en computacion,Institucion publica,Samsung,0.0,0.0,No,0.0,1.0,0.0,15.0,0.0
+71,F,50.0,,Desempleados,Sector privado,Samsung,5.0,3.0,Si,1.0,7.0,1.0,0.0,31.0
+191,F,30.0,Soltero,Servidor publico,Selfemployed ,Iphone,5.0,3.0,Si,31.0,7.0,1.0,15.0,7.0
+56,,30.0,Soltero,,Sector privado,Iphone 7,0.0,3.0,No,30.0,7.0,1.0,0.0,1.0
+93,F,45.0,,Medico,Desempleados,LG,10.0,3.0,Si,50.0,7.0,0.0,15.0,0.0
+99,F,50.0,Casado,Ingeniero,Institucion publica,Iphone 6,5.0,0.0,No,31.0,50.0,31.0,0.0,31.0
+9,F,30.0,Soltero,Analista de informacion,Institucion publica,Iphone 6S+,5.0,7.0,Si,,1.0,0.0,15.0,1.0
+118,F,35.0,Casado,adquisitivo,Sector privado,Iphone,5.0,6.0,Si,50.0,7.0,1.0,0.0,7.0
+172,M,40.0,Casado,Ingeniero,Desempleados,ASUS,5.0,0.0,Si,1.0,0.0,0.0,,0.0
+105,F,30.0,Casado,Ingeniero,Sector privado,Samsung,5.0,3.0,Si,31.0,30.0,31.0,0.0,0.0
+68,F,45.0,Casado,Quimico,Sector privado,Galaxy S4,5.0,3.0,Si,7.0,0.0,31.0,0.0,7.0
+222,M,40.0,Casado,Ingenieria en computacion,Sector privado,Iphone 5,,0.0,Si,,0.0,1.0,15.0,0.0
+46,,24.0,Casado,Servidor publico,Institucion publica,Iphone 6,5.0,3.0,No,31.0,0.0,1.0,0.0,0.0
+171,M,35.0,Casado,Ingeniero biomedico,Institucion publica,Samsung,5.0,3.0,Si,31.0,7.0,31.0,0.0,15.0
+56,M,24.0,Casado,Ingeniero,Sector privado,LG G3,5.0,3.0,Si,31.0,30.0,7.0,0.0,0.0
+104,M,30.0,Casado,AlumNo,Institucion publica,Samsung,5.0,3.0,Si,1.0,50.0,0.0,0.0,1.0
+144,M,30.0,Soltero,Ingeniero,Sector privado,Iphone 5S,5.0,0.0,Si,1.0,4.0,,0.0,0.0
+56,,35.0,Casado,Desempleados,Institucion publica,Samsung,5.0,5.0,No,1.0,4.0,0.0,0.0,31.0
+59,F,35.0,Casado,Profesor,Sector privado,Samsung,0.0,3.0,Si,0.0,31.0,1.0,0.0,31.0
+81,M,35.0,Casado,Servidor publico,Sector privado,Smartphone,0.0,3.0,Si,,0.0,1.0,30.0,1.0
+240,M,24.0,Soltero,Ingeniero,Sector privado,HTC DES?RE,5.0,3.0,Si,31.0,,0.0,0.0,30.0
+216,M,24.0,Casado,Profesor,Sector privado,Samsung S7+,5.0,7.0,Si,31.0,1.0,1.0,0.0,1.0
+150,M,50.0,Soltero,Desempleados,Sector privado,Iphone ,5.0,4.0,Si,7.0,31.0,1.0,1.0,15.0
+95,F,30.0,Soltero,Ingeniero,Selfemployed ,Iphone 6,0.0,3.0,No,7.0,1.0,1.0,0.0,1.0
+170,,50.0,Soltero,Profesor,Institucion publica,Galaxy S4,6.0,3.0,No,7.0,0.0,0.0,0.0,7.0
+193,F,24.0,Soltero,Ingeniero,Desempleados,Samsung,5.0,6.0,No,0.0,7.0,0.0,0.0,31.0
+207,F,30.0,Casado,Ingenieria en computacion,Institucion publica,,5.0,7.0,Si,30.0,0.0,1.0,0.0,31.0
+68,,30.0,Casado,,Institucion publica,Samsung S6 EDGE,5.0,7.0,Si,1.0,31.0,0.0,0.0,31.0
+114,F,40.0,Soltero,Servidor publico,Institucion publica,Iphone 5S,10.0,5.0,Si,31.0,50.0,0.0,0.0,0.0
+232,M,,Soltero,Servidor publico,Sector privado,LG V10,10.0,3.0,No,7.0,30.0,,0.0,0.0
+60,M,50.0,Casado,Desempleados,Institucion publica,Smartphone,,3.0,No,7.0,7.0,0.0,0.0,1.0
+107,M,35.0,Casado,,Institucion publica,Samsung,5.0,6.0,Si,31.0,50.0,1.0,0.0,
+150,M,30.0,Soltero,Profesor,Institucion publica,Android,5.0,7.0,No,31.0,31.0,1.0,0.0,4.0
+236,M,35.0,Soltero,Ingeniero,Institucion publica,Smartphone,0.0,3.0,Si,30.0,7.0,31.0,0.0,7.0
+150,F,30.0,Casado,Profesor,Sector privado,Iphone ,10.0,3.0,No,,,1.0,15.0,7.0
+76,M,30.0,Casado,Servidor publico,Institucion publica,Smartphone,,,No,1.0,,0.0,0.0,0.0
+32,M,35.0,Soltero,Servidor publico,Sector privado,Iphone 7,0.0,4.0,No,4.0,1.0,1.0,0.0,15.0
+46,M,35.0,Casado,Cajero,Institucion publica,LG,5.0,3.0,Si,1.0,0.0,1.0,,7.0
+122,F,30.0,Soltero,Ingenieria en computacion,Sector privado,0,10.0,6.0,No,31.0,0.0,31.0,0.0,31.0
+116,F,30.0,Soltero,adquisitivo,Institucion publica,Samsung,5.0,3.0,No,30.0,31.0,31.0,0.0,
+87,F,30.0,Soltero,Ingeniero de informacion,Sector privado,Iphone 6+,10.0,3.0,Si,31.0,7.0,1.0,15.0,35.0
+83,M,24.0,Casado,Ingeniero de software,Sector privado,Samsung,5.0,6.0,No,1.0,50.0,0.0,1.0,
+40,F,35.0,Soltero,Retirado,Sector privado,Samsung S7+,5.0,0.0,Si,31.0,,31.0,15.0,31.0
+162,M,40.0,Soltero,Ingeniero,Sector privado,Smartphone,10.0,0.0,Si,50.0,50.0,31.0,15.0,0.0
+10,M,24.0,Casado,Profesor,Institucion publica,LG G3,10.0,3.0,No,,31.0,0.0,0.0,0.0
+70,M,24.0,Soltero,,Sector privado,Iphone,5.0,0.0,Si,0.0,50.0,1.0,0.0,4.0
+92,M,24.0,Casado,Servidor publico,Sector privado,Samsung Note 4,0.0,6.0,Si,31.0,0.0,30.0,0.0,0.0
+40,F,50.0,Casado,entrenador,Sector privado,Iphone 5,0.0,6.0,Si,31.0,7.0,1.0,15.0,1.0
+102,M,35.0,Soltero,adquisitivo,Institucion publica,,10.0,3.0,No,50.0,50.0,1.0,0.0,0.0
+108,M,30.0,,AlumNo,Sector privado,Iphone 5,5.0,6.0,No,0.0,0.0,15.0,0.0,1.0
+6,M,30.0,Soltero,Desempleados,Sector privado,Iphone,5.0,3.0,Si,1.0,50.0,0.0,15.0,0.0
+120,M,40.0,Casado,adquisitivo,Institucion publica,HTC M8,5.0,4.0,Si,31.0,31.0,1.0,0.0,35.0
+156,F,24.0,Soltero,Servidor publico,Sector privado,Samsung s3,10.0,3.0,Si,31.0,30.0,0.0,0.0,4.0
+13,F,30.0,Casado,Servidor publico,Institucion publica,Samsung S7,10.0,3.0,No,7.0,50.0,0.0,0.0,15.0
+15,F,24.0,Soltero,Profesor,Sector privado,Iphone,5.0,3.0,No,1.0,0.0,1.0,0.0,15.0
+149,M,40.0,Casado,,Institucion publica,SONY Z2,10.0,3.0,Si,50.0,31.0,31.0,0.0,7.0
+191,M,30.0,Soltero,Servidor publico,Sector privado,,5.0,6.0,No,50.0,0.0,1.0,0.0,31.0
+23,M,35.0,Casado,AlumNo,Desempleados,HTC M8,0.0,4.0,Si,7.0,0.0,1.0,0.0,15.0
+2,M,50.0,Soltero,Profesor,Institucion publica,Iphone 6,10.0,0.0,No,30.0,1.0,1.0,0.0,0.0
+14,F,40.0,Soltero,,Institucion publica,Iphone ,0.0,3.0,Si,31.0,31.0,1.0,1.0,1.0
+61,F,30.0,Soltero,adquisitivo,Institucion publica,Iphone 6,,,Si,1.0,7.0,1.0,15.0,0.0
+109,M,35.0,Casado,Ingenieria en computacion,Institucion publica,Iphone 5,10.0,3.0,No,1.0,0.0,15.0,0.0,35.0
+161,M,30.0,Casado,Servidor publico,Sector privado,Asus,10.0,0.0,Si,50.0,50.0,15.0,0.0,0.0
+215,M,30.0,Soltero,Ingeniero,Institucion publica,HTC M8,15.0,3.0,Si,4.0,7.0,1.0,0.0,1.0
+158,M,30.0,Soltero,ArtesaNo,Institucion publica,Samsung s3,5.0,3.0,Si,0.0,,1.0,,7.0
+9,M,35.0,Soltero,Ingeniero de informacion,Institucion publica,Samsung,10.0,3.0,Si,,1.0,1.0,15.0,0.0
+58,F,30.0,Casado,Servidor publico,Sector privado,Iphone ,5.0,0.0,Si,31.0,0.0,1.0,1.0,4.0
+19,M,30.0,Casado,AlumNo,Selfemployed ,Samsung Note 4,5.0,3.0,Si,50.0,50.0,1.0,0.0,31.0
+210,M,24.0,Soltero,Ingeniero,Sector privado,ASUS,10.0,,Si,7.0,7.0,31.0,0.0,15.0
+146,F,24.0,Soltero,Profesor,Sector privado,Iphone ,0.0,0.0,No,1.0,1.0,1.0,0.0,0.0
+159,M,30.0,Soltero,Ingeniero,Sector privado,Samsung Note 4,10.0,3.0,Si,1.0,31.0,1.0,15.0,0.0
+99,M,30.0,Soltero,Ingeniero de informacion,Institucion publica,LG V10,5.0,,No,0.0,0.0,15.0,15.0,30.0
+187,F,40.0,Casado,Retirado,Selfemployed ,Smartphone,0.0,3.0,No,7.0,1.0,31.0,0.0,7.0
+231,F,45.0,Casado,Servidor publico,Sector privado,Iphone,15.0,3.0,Si,0.0,1.0,0.0,0.0,7.0
+227,M,24.0,Soltero,Profesor,Sector privado,Samsung Note 4,0.0,0.0,Si,7.0,7.0,1.0,0.0,1.0
+129,F,35.0,Casado,adquisitivo,Institucion publica,Iphone,5.0,4.0,No,7.0,,0.0,0.0,0.0
+191,M,30.0,Casado,,Sector privado,Casper,5.0,3.0,No,7.0,1.0,31.0,1.0,15.0
+153,F,35.0,Soltero,Ingeniero de informacion,Institucion publica,Iphone 5S,5.0,3.0,No,50.0,7.0,1.0,0.0,15.0
+176,M,30.0,Casado,Servidor publico,Selfemployed ,Samsung Note 4,5.0,7.0,Si,1.0,30.0,1.0,0.0,31.0
+2,F,30.0,Casado,AlumNo,Sector privado,Iphone ,10.0,3.0,No,1.0,0.0,1.0,0.0,0.0
+205,F,45.0,Casado,,Selfemployed ,Iphone ,5.0,6.0,No,0.0,1.0,1.0,0.0,35.0
+206,M,50.0,Casado,,Institucion publica,LG,15.0,6.0,Si,0.0,30.0,15.0,0.0,0.0
+226,M,24.0,Soltero,Desempleados,Institucion publica,Iphone ,15.0,3.0,Si,30.0,30.0,0.0,15.0,0.0
+173,F,35.0,Soltero,Profesor,Sector privado,Samsung S6 EDGE,10.0,7.0,No,31.0,1.0,31.0,0.0,15.0
+117,F,30.0,Casado,Ingeniero biomedico,Sector privado,Casper,5.0,4.0,Si,50.0,1.0,1.0,0.0,7.0
+198,M,50.0,Soltero,Servidor publico,Institucion publica,Samsung j,5.0,3.0,No,7.0,30.0,1.0,0.0,15.0
+204,M,24.0,Soltero,Cajero,Sector privado,Smartphone,5.0,3.0,Si,1.0,1.0,1.0,0.0,0.0
+39,M,40.0,Soltero,Matematico,Sector privado,Samsung,5.0,3.0,Si,7.0,,15.0,31.0,15.0
+106,F,40.0,Soltero,Profesor,Institucion publica,Samsung,10.0,,No,1.0,50.0,1.0,0.0,15.0
+184,M,35.0,Casado,Profesor,Institucion publica,Smartphone,10.0,0.0,Si,31.0,50.0,0.0,1.0,0.0
+126,M,35.0,Casado,Desempleados,Desempleados,LG,10.0,6.0,Si,50.0,30.0,15.0,0.0,7.0
+131,M,50.0,Casado,AlumNo,Desempleados,Samsung S7+,0.0,,Si,31.0,7.0,0.0,0.0,15.0
+3,M,24.0,Soltero,,Institucion publica,General Mobile,10.0,7.0,Si,7.0,31.0,15.0,0.0,0.0
+88,,35.0,Casado,AlumNo,Sector privado,SONY XPER?A 75,10.0,0.0,Si,31.0,7.0,1.0,0.0,31.0
+102,M,50.0,Soltero,Minero,Sector privado,Iphone 5S,5.0,3.0,No,50.0,30.0,0.0,0.0,4.0
+158,F,24.0,Soltero,adquisitivo,Desempleados,SONY XPER?A 75,5.0,6.0,No,0.0,1.0,0.0,0.0,4.0
+108,F,35.0,Casado,Contador,Institucion publica,Iphone 6+,10.0,3.0,Si,4.0,0.0,1.0,0.0,0.0
+134,M,45.0,Casado,Servidor publico,Sector privado,LG G2,15.0,3.0,Si,7.0,31.0,1.0,1.0,7.0
+134,M,24.0,Casado,Analista de informacion,Sector privado,LG G4,10.0,3.0,No,7.0,7.0,1.0,0.0,7.0
+86,F,50.0,Casado,Profesor,Desempleados,LG G3,10.0,3.0,Si,31.0,,1.0,30.0,0.0
+175,M,30.0,Soltero,Enfermera,Sector privado,Samsung,0.0,3.0,Si,1.0,7.0,0.0,0.0,0.0
+24,M,24.0,Casado,Ingeniero de informacion,,Iphone 6S,5.0,7.0,Si,7.0,30.0,1.0,15.0,0.0
+137,F,35.0,Casado,Profesor,Institucion publica,Samsung,5.0,3.0,No,31.0,0.0,15.0,0.0,0.0
+2,F,30.0,Casado,Profesor,Sector privado,Samsung,5.0,0.0,No,31.0,50.0,1.0,1.0,7.0
+119,F,40.0,Casado,Ingenieria en computacion,Institucion publica,Samsung S6 EDGE,5.0,3.0,Si,31.0,50.0,0.0,0.0,31.0
+121,F,24.0,Soltero,Profesor,Sector privado,Asus ZenFone,5.0,0.0,Si,0.0,1.0,1.0,0.0,1.0
+32,M,30.0,Casado,,Desempleados,Samsung,5.0,7.0,Si,,7.0,1.0,1.0,7.0
+67,M,30.0,Casado,Matematico,Sector privado,Asus ZenFone Selfie,5.0,3.0,No,7.0,50.0,1.0,1.0,0.0
+227,F,35.0,Casado,Servidor publico,Institucion publica,Iphone 7,10.0,3.0,No,50.0,1.0,15.0,0.0,1.0
+167,M,24.0,Casado,Ingenieria en computacion,Institucion publica,Asus,10.0,0.0,Si,0.0,30.0,1.0,15.0,0.0
+234,F,24.0,Casado,Ingenieria en computacion,Institucion publica,Samsung S6 EDGE,5.0,3.0,No,1.0,31.0,0.0,0.0,1.0
+217,M,50.0,Soltero,Servidor publico,Sector privado,Iphone 7,0.0,0.0,Si,0.0,7.0,1.0,0.0,1.0
+163,F,30.0,Soltero,,Institucion publica,Iphone 6,5.0,3.0,No,50.0,7.0,15.0,0.0,7.0
+195,F,30.0,Casado,Servidor publico,Institucion publica,Samsung,10.0,7.0,No,7.0,0.0,0.0,0.0,0.0
+180,F,40.0,Casado,Servidor publico,Institucion publica,Samsung Note 4,5.0,0.0,No,1.0,4.0,0.0,0.0,7.0
+87,M,24.0,Soltero,Ingeniero,Institucion publica,LG,10.0,3.0,Si,31.0,50.0,,0.0,1.0
+170,M,30.0,Casado,Ingeniero,Sector privado,Iphone 6S+,5.0,6.0,Si,4.0,7.0,0.0,31.0,35.0
+167,F,35.0,Casado,Ingenieria en computacion,Sector privado,Iphone 6+,10.0,6.0,No,1.0,7.0,31.0,0.0,15.0
+213,M,35.0,Soltero,Profesor,Sector privado,Iphone ,5.0,3.0,No,0.0,,1.0,0.0,7.0
+60,F,30.0,Casado,Servidor publico,Institucion publica,VODEFONE SMART 6,10.0,0.0,No,7.0,7.0,1.0,0.0,0.0
+226,M,50.0,Casado,Ingeniero de software,Sector privado,Iphone 6,15.0,0.0,No,7.0,0.0,0.0,1.0,7.0
+18,M,24.0,Soltero,Psicologo,Sector privado,Samsung,10.0,7.0,Si,7.0,4.0,1.0,0.0,31.0
+74,F,24.0,Casado,AlumNo,Desempleados,Iphone ,5.0,5.0,Si,31.0,50.0,31.0,31.0,1.0
+184,F,24.0,Casado,adquisitivo,Desempleados,Iphone 6+,10.0,3.0,Si,31.0,7.0,1.0,0.0,0.0
+243,F,35.0,Soltero,Ingeniero de software,Institucion publica,Iphone ,10.0,0.0,No,4.0,50.0,1.0,15.0,0.0
+95,M,50.0,Casado,Ingeniero de software,Sector privado,Samsung,5.0,3.0,Si,1.0,7.0,1.0,0.0,15.0
+98,M,30.0,Casado,,Sector privado,Samsung Note 3,10.0,7.0,No,0.0,1.0,1.0,1.0,31.0
+10,F,35.0,Casado,Ingeniero de informacion,Sector privado,Iphone 6S,5.0,3.0,Si,50.0,4.0,1.0,0.0,31.0
+53,M,24.0,Soltero,Desempleados,Sector privado,Nokia,5.0,0.0,Si,7.0,7.0,31.0,0.0,15.0
+244,M,24.0,Casado,Enfermera,Institucion publica,Smartphone,10.0,3.0,Si,4.0,50.0,1.0,0.0,15.0
+138,F,24.0,Casado,Ingenieria en computacion,Sector privado,Samsung S3,0.0,6.0,No,1.0,,0.0,0.0,0.0
+186,M,50.0,Soltero,Ingeniero electronico,Sector privado,SAMSUNG S6,5.0,6.0,Si,31.0,7.0,1.0,0.0,0.0
+10,M,24.0,Soltero,,Institucion publica,,15.0,3.0,No,1.0,1.0,0.0,0.0,1.0
+53,F,50.0,,Servidor publico,Institucion publica,HTC ,5.0,3.0,No,,,0.0,1.0,
+233,F,30.0,Soltero,Desempleados,,,10.0,7.0,Si,30.0,7.0,0.0,0.0,15.0
+194,M,35.0,Casado,AlumNo,Institucion publica,Iphone 6,5.0,0.0,No,50.0,31.0,1.0,0.0,0.0
+128,F,45.0,Soltero,,Institucion publica,Samsung S6,10.0,6.0,Si,7.0,0.0,1.0,15.0,0.0
+152,M,35.0,Casado,Ingeniero de software,Institucion publica,SAMSUNG S6,15.0,3.0,Si,31.0,0.0,0.0,0.0,0.0
+89,M,30.0,Casado,Ingeniero,Institucion publica,,0.0,3.0,Si,4.0,1.0,31.0,15.0,1.0
+129,F,,Soltero,Cajero,Institucion publica,LG G3,10.0,4.0,No,0.0,31.0,0.0,15.0,0.0
+186,M,24.0,Soltero,Ingeniero,Institucion publica,Samsung,5.0,0.0,No,1.0,1.0,0.0,0.0,1.0
+175,M,35.0,Soltero,Profesor,Institucion publica,Iphone ,5.0,3.0,No,1.0,31.0,0.0,15.0,1.0
+157,M,30.0,Casado,Ingeniero,Institucion publica,Iphone 6,5.0,0.0,No,,7.0,15.0,0.0,1.0
+27,F,30.0,Casado,Ingenieria en computacion,Institucion publica,Samsung,10.0,3.0,Si,1.0,0.0,1.0,15.0,15.0
+198,M,24.0,Soltero,Ingenieria en computacion,Institucion publica,Samsung 7+ Edge,5.0,0.0,No,1.0,0.0,1.0,0.0,15.0
+98,M,35.0,Soltero,Desempleados,Desempleados,,0.0,4.0,Si,7.0,1.0,1.0,0.0,0.0
+18,M,30.0,Casado,Desempleados,Sector privado,Samsung,10.0,6.0,Si,31.0,7.0,31.0,0.0,1.0
+250,M,24.0,Casado,Profesor,Sector privado,Iphone ,5.0,3.0,Si,0.0,50.0,1.0,0.0,31.0
+161,F,24.0,Casado,Profesor,Institucion publica,Samsung Note 4,5.0,4.0,Si,31.0,0.0,15.0,0.0,31.0
+112,F,50.0,Casado,Ingeniero,Sector privado,Samsung,10.0,4.0,No,1.0,1.0,1.0,0.0,0.0
+26,M,35.0,Casado,entrenador,Sector privado,Nokia,10.0,0.0,Si,0.0,1.0,0.0,1.0,4.0
+217,F,24.0,Soltero,Profesor,Sector privado,LG G4,5.0,6.0,No,31.0,7.0,31.0,0.0,15.0
+45,M,35.0,Casado,Ingeniero de software,Sector privado,Iphone,5.0,3.0,Si,1.0,4.0,1.0,0.0,15.0
+111,F,30.0,Casado,AlumNo,Sector privado,Samsung S3,0.0,3.0,No,1.0,50.0,31.0,7.0,7.0
+226,M,30.0,Casado,,Institucion publica,Galaxy S4,5.0,6.0,No,31.0,30.0,0.0,0.0,31.0
+243,F,35.0,Casado,Profesor,Sector privado,Sony,0.0,7.0,No,31.0,30.0,1.0,15.0,0.0
+222,M,30.0,Soltero,Servidor publico,Sector privado,Asus,5.0,3.0,Si,1.0,0.0,,1.0,1.0
+55,M,24.0,Casado,Ingeniero,Sector privado,Samsung,5.0,6.0,Si,31.0,7.0,1.0,0.0,0.0
+168,0,30.0,Casado,Ingeniero,Desempleados,,5.0,3.0,Si,0.0,0.0,0.0,0.0,7.0
+160,M,50.0,Casado,Servidor publico,Sector privado,Iphone ,10.0,,No,0.0,50.0,1.0,0.0,15.0
+51,F,30.0,Casado,Servidor publico,Institucion publica,Samsung S7+,,4.0,Si,31.0,7.0,0.0,0.0,0.0
+175,M,35.0,Soltero,Ingenieria en computacion,Institucion publica,Smartphone,6.0,7.0,Si,1.0,31.0,15.0,0.0,30.0
+100,M,45.0,Casado,Profesor,Sector privado,Casper,5.0,3.0,Si,31.0,0.0,1.0,0.0,31.0
+77,M,30.0,Soltero,Desempleados,Sector privado,Smartphone,5.0,3.0,Si,0.0,4.0,0.0,0.0,30.0
+101,F,30.0,Soltero,Profesor,Sector privado,Samsung,5.0,0.0,Si,31.0,50.0,1.0,0.0,7.0
+198,M,30.0,Casado,Ingeniero,Institucion publica,Iphone 5S,5.0,3.0,Si,0.0,1.0,1.0,0.0,1.0
+25,M,35.0,Casado,Desempleados,Sector privado,ASUS,5.0,3.0,No,7.0,50.0,1.0,0.0,31.0
+179,M,40.0,Soltero,Profesor,Sector privado,Iphone ,10.0,,Si,0.0,1.0,0.0,15.0,1.0
+222,M,30.0,Casado,Profesor,Institucion publica,LG G2,5.0,3.0,Si,31.0,31.0,0.0,0.0,
+238,F,35.0,Casado,Servidor publico,Desempleados,Iphone 5,15.0,4.0,No,0.0,4.0,1.0,0.0,31.0
+152,M,35.0,Soltero,Profesor,Institucion publica,Iphone,0.0,,Si,30.0,7.0,15.0,15.0,15.0
