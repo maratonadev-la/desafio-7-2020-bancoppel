@@ -23,9 +23,9 @@
 
 ## 1. Acerca de BanCoppel
 
-BanCoppel -Institución de Banca Múltiple,  es un banco mexicano que ofrece servicios bancarios completos, como depósitos, préstamos, administración de activos, tarjetas de crédito, pagos en línea y contratos de fideicomisos, entre otros.
+BanCoppel -Institucion de Banca Múltiple,  es un banco al alcance de todos los mexicanos, que ofrece una variedad de productos y servicios financieros sin comisiones por anualidad y sin comprobante de ingresos, cuenta con más de 1,150 sucursales, siendo el tercer emisor de tarjetas de crédito y segundo emisor de tarjetas de débito en México.
 
-Entre muchas otras cosas BanCoppel, busca ofrecer a la población de bajos ingresos los servicios bancarios que les permitan administrar mejor sus recursos a través del tiempo, así como desarrollarse, planear mejor su futuro, enfrentar imprevistos y disminuir riesgos.
+Entre muchas otras cosas BanCoppel, ofrece soluciones financieras sencillas que impulsan a los clientes a alcanzar sus metas.
 
 <div align="center">
     <a href="https://www.youtube.com/watch?v=vWd2vpm4GAw">
