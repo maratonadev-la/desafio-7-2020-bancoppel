@@ -56,7 +56,7 @@ En este desafío vamos a usar las siguiente herramienta
 Mira el tutorial a continuación para aprender como aplicar la tecnología de IBM para resolver el desafío
 
 <div align="center">
-    <a href="https://youtu.be/lYG-sd7rt_E">
+    <a href="https://youtu.be/Oc8rMCH9ZiA">
        <img width="50%" src="./doc/source/images/THUMB-TUTORIAL-7-ES.png" alt='video'>
     </a>
 </div>
